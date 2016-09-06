@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "4e74d3da2b66d531431744919cd3fbb3631fef29",
-  "LastTranslatedCommit": "d3a48e11019e0ffea455e6217e7bedde2e163f13",
+  "LastTranslatedCommit": "96159a790e44f8a88cc8f34e9268d5e21c1a5b8f",
   "Items": {
     "1d4f7645a5c4f7b7963779bf619d122a625c1ecd": {
       "FileHash": "1d4f7645a5c4f7b7963779bf619d122a625c1ecd",
@@ -30176,9 +30176,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-09-06T23:02:49.3512022Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: yy1ju0un.tbl is different with handoff file name: 496a8088-67a4-4ecd-9b3d-9e9fd0d2c079.9bfd6a44642691a77b988c3e2034760a4e1fe9f2.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: yy1ju0un.tbl is different with handoff file name: 496a8088-67a4-4ecd-9b3d-9e9fd0d2c079.9bfd6a44642691a77b988c3e2034760a4e1fe9f2.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
