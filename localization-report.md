@@ -59,6 +59,8 @@
 * Archive Datetime: 2016-09-06 08:31:45
 * Handback File: [626b4323-00c9-40aa-a9f5-62b898b4db85.b717b821591561dbfa949a35910d14bc008fe1f9.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/8b2e1414ea6ad36e40b7aa2ac7edbe1eb2ad5069/ol-handback/OpenLocalizationTestOrg/ol-test0-zhcn/ci/ht/626b4323-00c9-40aa-a9f5-62b898b4db85.b717b821591561dbfa949a35910d14bc008fe1f9.zh-cn.xlf)
 * Handback Datetime: 2016-09-06 08:32:25
+* Bilingual File: [626b4323-00c9-40aa-a9f5-62b898b4db85.b717b821591561dbfa949a35910d14bc008fe1f9.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/8b2e1414ea6ad36e40b7aa2ac7edbe1eb2ad5069/ol-handback/OpenLocalizationTestOrg/ol-test0-zhcn/ci/ht/626b4323-00c9-40aa-a9f5-62b898b4db85.b717b821591561dbfa949a35910d14bc008fe1f9.zh-cn.xlf)
+* Bilingual Datetime: 2016-09-06 08:32:49
 * [Back to Top](#report-top)
 
 ##### <a name='e4ff04bf09ec4ef70c02358b5d9054e523e56f7d2'></a> Source: [e2e\ba22b89f-e772-4e4a-ae87-564aa235f5e5.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/39979fc2eca5466896d188b359b79b2896e4c134/e2e/ba22b89f-e772-4e4a-ae87-564aa235f5e5.md)
@@ -71,6 +73,8 @@
 * Archive Datetime: 2016-09-06 08:31:45
 * Handback File: [ba22b89f-e772-4e4a-ae87-564aa235f5e5.1392f63d34a480156e198ec719111036e083f29b.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/8b2e1414ea6ad36e40b7aa2ac7edbe1eb2ad5069/ol-handback/OpenLocalizationTestOrg/ol-test0-zhcn/ci/ht/ba22b89f-e772-4e4a-ae87-564aa235f5e5.1392f63d34a480156e198ec719111036e083f29b.zh-cn.xlf)
 * Handback Datetime: 2016-09-06 08:32:25
+* Bilingual File: [ba22b89f-e772-4e4a-ae87-564aa235f5e5.1392f63d34a480156e198ec719111036e083f29b.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/8b2e1414ea6ad36e40b7aa2ac7edbe1eb2ad5069/ol-handback/OpenLocalizationTestOrg/ol-test0-zhcn/ci/ht/ba22b89f-e772-4e4a-ae87-564aa235f5e5.1392f63d34a480156e198ec719111036e083f29b.zh-cn.xlf)
+* Bilingual Datetime: 2016-09-06 08:32:49
 * [Back to Top](#report-top)
 
 
