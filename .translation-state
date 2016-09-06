@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "cccb13fd6b7ae5502d9b78d4b08fcac183deb7c0",
-  "LastTranslatedCommit": "0489777ae019a9a986b20272c376da18eb46df50",
+  "LastTranslatedCommit": "5535d74e83b4baf8a0adaaf6aecc16d6ced6b5b2",
   "Items": {
     "1d4f7645a5c4f7b7963779bf619d122a625c1ecd": {
       "FileHash": "1d4f7645a5c4f7b7963779bf619d122a625c1ecd",
@@ -5504,9 +5504,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-09-06T05:04:28.484236Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: ln1r1kfk.n4p is different with handoff file name: 644299c1-3979-4132-aa2e-8e1f9018b6fb.1a9464472e8cb5ba4de54f98b87ca88953887727.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: ln1r1kfk.n4p is different with handoff file name: 644299c1-3979-4132-aa2e-8e1f9018b6fb.1a9464472e8cb5ba4de54f98b87ca88953887727.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
