@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "70530b5cfee4a5caa91c41badb360bf7a8ec4131",
-  "LastTranslatedCommit": "624fad34a9c08932bc5f16c7e9cbc61079f27a45",
+  "LastTranslatedCommit": "b9c794501962af79c649ab1f80e7f9487bdd1d52",
   "Items": {
     "1d4f7645a5c4f7b7963779bf619d122a625c1ecd": {
       "FileHash": "1d4f7645a5c4f7b7963779bf619d122a625c1ecd",
@@ -14756,9 +14756,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-09-06T11:07:41.8280908Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: kahpvanb.oqy is different with handoff file name: 65f37892-d67e-47ee-a87e-c6f046ea05a5.a90d37d26714b6328d3e623ecd34be662b33ab07.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: kahpvanb.oqy is different with handoff file name: 65f37892-d67e-47ee-a87e-c6f046ea05a5.a90d37d26714b6328d3e623ecd34be662b33ab07.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
