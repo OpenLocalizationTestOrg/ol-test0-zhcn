@@ -1,32 +1,4 @@
 {
-  "eb15f5a3369be4c6a06922b5ed6543c36ad0da38": [
-    "e2e\\file_full_deleted_multi_path_1.md",
-    "e2e\\file_full_deleted_multi_path_2.md"
-  ],
-  "911abf63a2dd9b93954c68877a91781d1b22f368": [
-    "e2e\\file_full_deleted_multi_path_1.md",
-    "e2e\\file_full_deleted_multi_path_2.md"
-  ],
-  "a1ce69d16ec93146489ba4f3a36e04f8f3102d68": [
-    "e2e\\file_full_deleted_multi_path_1.md",
-    "e2e\\file_full_deleted_multi_path_2.md"
-  ],
-  "e7675d642dba6bbbda3cc4448b7dba6880125544": [
-    "e2e\\file_full_deleted_multi_path_1.md",
-    "e2e\\file_full_deleted_multi_path_2.md"
-  ],
-  "76881185153a10a0c238a1b00cd5007f061b8b7d": [
-    "e2e\\file_full_deleted_single_path.md"
-  ],
-  "8682a73ca1896121be92ebb6dade3ffba9f95d8b": [
-    "e2e\\file_full_deleted_single_path.md"
-  ],
-  "1c0ae2661d761246db22e9ba3d23a4f2e42835ab": [
-    "e2e\\file_full_deleted_single_path.md"
-  ],
-  "26e8b423409fd235dff46deab1167fb37b6f718a": [
-    "e2e\\file_full_deleted_single_path.md"
-  ],
   "78a8983ce959ce44465239291da9b9fbf2e9c034": [
     "e2e\\file_no_deleted_multi_path_1.md",
     "e2e\\file_no_deleted_multi_path_2.md"
@@ -34,6 +6,9 @@
   "ed059ccd55b03f06e2740e13b536fa6597b042a1": [
     "e2e\\file_no_deleted_multi_path_1.md",
     "e2e\\file_no_deleted_multi_path_2.md"
+  ],
+  "3cf83be1f866c01f77ae22065e6daf827353b4cf": [
+    "e2e\\file_no_deleted_single_path.md"
   ],
   "7d17417086b4aa672689be958808e6321cf0adcf": [
     "e2e\\file_no_deleted_single_path.md"
@@ -45,11 +20,12 @@
     "e2e\\file_no_deleted_single_path.md"
   ],
   "bd9035287308413230fa3d0b9becd5c303cd252f": [
-    "e2e\\file_partial_deleted_multi_path_1.md",
-    "e2e\\file_partial_deleted_multi_path_2.md"
+    "e2e\\file_partial_deleted_multi_path_1.md"
   ],
   "68799fa4603c9db2acff1597d8c08d9ef4f38347": [
-    "e2e\\file_partial_deleted_multi_path_1.md",
-    "e2e\\file_partial_deleted_multi_path_2.md"
+    "e2e\\file_partial_deleted_multi_path_1.md"
+  ],
+  "c89ded28a0fdcae70e44d0d6cc2f620ff054c49c": [
+    "e2e\\newfile.fa1d8865-17c0-4be2-8b3a-74a957aeaa52.md"
   ]
 }
