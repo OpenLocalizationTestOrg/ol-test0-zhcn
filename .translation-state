@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "0348ca0e6a7c709696c6aaf84b72f173646f0da6",
-  "LastTranslatedCommit": "b6a47d448b0070921929c9e2a9c4b032a54a35d3",
+  "LastTranslatedCommit": "308f50da879cc71c739f874c596e4519c9218944",
   "Items": {
     "1d4f7645a5c4f7b7963779bf619d122a625c1ecd": {
       "FileHash": "1d4f7645a5c4f7b7963779bf619d122a625c1ecd",
@@ -17840,9 +17840,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-09-06T15:44:47.0519987Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: aeboa3l5.1d3 is different with handoff file name: cae33588-4425-4cc3-9990-5bbeeb7febff.c89148643c39e0f32dc38af26446ba98888bdf01.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: aeboa3l5.1d3 is different with handoff file name: cae33588-4425-4cc3-9990-5bbeeb7febff.c89148643c39e0f32dc38af26446ba98888bdf01.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
