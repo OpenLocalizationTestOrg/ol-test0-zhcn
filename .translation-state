@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "1a262f6e2ea9e36f6dda40b8505e9308b816cbd0",
-  "LastTranslatedCommit": "370c518d51028b2a259d5c71548b95d3def3d3fe",
+  "LastTranslatedCommit": "da98840782c0b3c70b37ddb11082c3f826ff3de6",
   "Items": {
     "1d4f7645a5c4f7b7963779bf619d122a625c1ecd": {
       "FileHash": "1d4f7645a5c4f7b7963779bf619d122a625c1ecd",
@@ -20924,9 +20924,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-09-06T17:27:50.9578517Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: sntpivxw.lbt is different with handoff file name: a2b6ad19-0849-4c34-b20f-f7a40de40291.7ae44d30cc9053fb74e76c5ceb674a369ced60a5.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: sntpivxw.lbt is different with handoff file name: a2b6ad19-0849-4c34-b20f-f7a40de40291.7ae44d30cc9053fb74e76c5ceb674a369ced60a5.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
