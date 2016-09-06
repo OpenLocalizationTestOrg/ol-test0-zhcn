@@ -13216,9 +13216,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\ci\\ht\\a50ba3c3-a210-4225-8a61-f5b79a37f6af.d4c443dc2e8472e84122faffa88852ff6f22a45e.zh-cn.xlf",
+      "BilingualFileCommit": "b0b740f8da0df9bea0a21341bf7a9f3e34c85c86",
+      "BilingualDateTime": "2016-09-06T10:34:42.4794029Z",
       "BilingualException": null
     },
     "e67d6d300cb3bd954edf7c0216565c95c24d8bb1": {
@@ -13251,9 +13251,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\ci\\ht\\b6657c0d-4cd5-4065-82f2-45cedfeb434f.235d40bcb38c905bd9feb9fbdc9f03f221495348.zh-cn.xlf",
+      "BilingualFileCommit": "b0b740f8da0df9bea0a21341bf7a9f3e34c85c86",
+      "BilingualDateTime": "2016-09-06T10:34:42.4794029Z",
       "BilingualException": null
     },
     "f301de58aba45745a46f336b7b5121d3a21366eb": {
