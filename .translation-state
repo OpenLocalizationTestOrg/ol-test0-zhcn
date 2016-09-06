@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "0384ffbc2ce306efe11274180cd83a73cb69a228",
-  "LastTranslatedCommit": "65646e5efa52ff6287aba78660d24f471d74ab55",
+  "LastTranslatedCommit": "64e7737967e8002b6ab3b5bb6e713566eb5146a1",
   "Items": {
     "1d4f7645a5c4f7b7963779bf619d122a625c1ecd": {
       "FileHash": "1d4f7645a5c4f7b7963779bf619d122a625c1ecd",
@@ -2420,9 +2420,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-09-06T02:55:46.4775848Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: 2ggzapcq.zec is different with handoff file name: 94355616-be32-46ec-b239-168f5c3033be.45069dc655952ea5e19f54b8d1060f968630edf9.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: 2ggzapcq.zec is different with handoff file name: 94355616-be32-46ec-b239-168f5c3033be.45069dc655952ea5e19f54b8d1060f968630edf9.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
