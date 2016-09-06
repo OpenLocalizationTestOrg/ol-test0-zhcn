@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "0f2f9dec741a86f293010cbd7f3bcee8e4c44e15",
-  "LastTranslatedCommit": "5b91d34dd7fc4b26d6c95851d853253a3835246e",
+  "LastTranslatedCommit": "d0724605c8a5031f4be08f8fa96e4df0c77bb72b",
   "Items": {
     "1d4f7645a5c4f7b7963779bf619d122a625c1ecd": {
       "FileHash": "1d4f7645a5c4f7b7963779bf619d122a625c1ecd",
@@ -12675,9 +12675,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-09-06T10:22:44.3962117Z",
+      "HandbackException": {
+        "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
+        "internal_error_message": "The handback priority in file path mt\\5d4cd9bf-cad8-46be-8a84-654a0945298b.eeaccb7cf25ad87eb18be43067097741a0a770e1.zh-cn.xlf is not match with handoff type ht.",
+        "internal_error_retriable": false,
+        "exception_message": "The handback priority in file path mt\\5d4cd9bf-cad8-46be-8a84-654a0945298b.eeaccb7cf25ad87eb18be43067097741a0a770e1.zh-cn.xlf is not match with handoff type ht.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
