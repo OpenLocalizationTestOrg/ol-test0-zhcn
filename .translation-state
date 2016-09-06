@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "f779259cf350a2964e39fe7b729ae11b47e58e9f",
-  "LastTranslatedCommit": "e34ec0f89ad6af1392c12b9a4c9c860e34f5913f",
+  "LastTranslatedCommit": "66e2a3dae912bb48b2e741eba11ce060ecc3d4be",
   "Items": {
     "1d4f7645a5c4f7b7963779bf619d122a625c1ecd": {
       "FileHash": "1d4f7645a5c4f7b7963779bf619d122a625c1ecd",
@@ -11672,9 +11672,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-09-06T09:08:53.5430609Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: 3w24v3pw.b2r is different with handoff file name: 042e2f9a-1f81-4830-9f4f-781bf1b3d165.a32cf37dfd6c76406f1b913becaa3bdcd4d5b0f3.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: 3w24v3pw.b2r is different with handoff file name: 042e2f9a-1f81-4830-9f4f-781bf1b3d165.a32cf37dfd6c76406f1b913becaa3bdcd4d5b0f3.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
