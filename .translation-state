@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "cccb13fd6b7ae5502d9b78d4b08fcac183deb7c0",
+  "LastProcessedCommit": "10944a4559a863095af66d824c7a22298a399177",
   "LastTranslatedCommit": "5535d74e83b4baf8a0adaaf6aecc16d6ced6b5b2",
   "Items": {
     "1d4f7645a5c4f7b7963779bf619d122a625c1ecd": {
@@ -5515,6 +5515,42 @@
         "extended_information": null
       },
       "HandbackFailureTimes": 1,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
+    },
+    "78e309919ccb54cd091e60df4b9e9df8ec277b70": {
+      "FileHash": "78e309919ccb54cd091e60df4b9e9df8ec277b70",
+      "SourceFileCommit": "10944a4559a863095af66d824c7a22298a399177",
+      "SourceFilePath": "e2e\\979f87ac-7b41-4c18-b685-6fac9ed7dbec.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "e2e\\979f87ac-7b41-4c18-b685-6fac9ed7dbec.md",
+        "e2e\\f7235281-61a9-46c8-81c3-268563c5066b.md"
+      ],
+      "HasMetadata": false,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\ol-test0-zhcn\\ci\\ht\\979f87ac-7b41-4c18-b685-6fac9ed7dbec.d7eb83d16273f6ae093ab8f6e31af04d921b2e81.zh-cn.xlf",
+      "HandoffFileCommit": "eb62569e80debeb595ced74f73fa05dc768a13a2",
+      "HandoffDateTime": "2016-09-06T05:05:34.731793Z",
+      "HandoffPriority": "ht",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
