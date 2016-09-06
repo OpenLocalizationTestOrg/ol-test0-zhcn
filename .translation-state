@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "15b28a6f001ed377c333832c4e31499bac3ec42b",
-  "LastTranslatedCommit": "91a200d6f5d92d57a835af1d32679d44e262a171",
+  "LastTranslatedCommit": "96e980040976c6268ae0d117c2e08638b50ed3d8",
   "Items": {
     "1d4f7645a5c4f7b7963779bf619d122a625c1ecd": {
       "FileHash": "1d4f7645a5c4f7b7963779bf619d122a625c1ecd",
@@ -27092,9 +27092,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-09-06T21:08:34.2981937Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: tj5hyumn.mdc is different with handoff file name: bcaf908d-b35e-469a-bb97-2893af6084bb.5f8c9af621c6144790bc667e16df7fb818ef7694.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: tj5hyumn.mdc is different with handoff file name: bcaf908d-b35e-469a-bb97-2893af6084bb.5f8c9af621c6144790bc667e16df7fb818ef7694.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
