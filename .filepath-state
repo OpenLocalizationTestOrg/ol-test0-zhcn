@@ -1,5 +1,62 @@
 {
-  "ac5610e14e35343352c9459b3e335b10c5a31637": [
-    "e2e\\test-content-1.md"
+  "4227c7f040e141e1469234795477f203dc91a527": [
+    "e2e\\file_full_deleted_multi_path_1.md",
+    "e2e\\file_full_deleted_multi_path_2.md"
+  ],
+  "eb15f5a3369be4c6a06922b5ed6543c36ad0da38": [
+    "e2e\\file_full_deleted_multi_path_1.md",
+    "e2e\\file_full_deleted_multi_path_2.md"
+  ],
+  "911abf63a2dd9b93954c68877a91781d1b22f368": [
+    "e2e\\file_full_deleted_multi_path_1.md",
+    "e2e\\file_full_deleted_multi_path_2.md"
+  ],
+  "a1ce69d16ec93146489ba4f3a36e04f8f3102d68": [
+    "e2e\\file_full_deleted_multi_path_1.md",
+    "e2e\\file_full_deleted_multi_path_2.md"
+  ],
+  "e7675d642dba6bbbda3cc4448b7dba6880125544": [
+    "e2e\\file_full_deleted_multi_path_1.md",
+    "e2e\\file_full_deleted_multi_path_2.md"
+  ],
+  "14f9fcbd5a939efd93a025730087610bd4320519": [
+    "e2e\\file_full_deleted_single_path.md"
+  ],
+  "76881185153a10a0c238a1b00cd5007f061b8b7d": [
+    "e2e\\file_full_deleted_single_path.md"
+  ],
+  "8682a73ca1896121be92ebb6dade3ffba9f95d8b": [
+    "e2e\\file_full_deleted_single_path.md"
+  ],
+  "1c0ae2661d761246db22e9ba3d23a4f2e42835ab": [
+    "e2e\\file_full_deleted_single_path.md"
+  ],
+  "26e8b423409fd235dff46deab1167fb37b6f718a": [
+    "e2e\\file_full_deleted_single_path.md"
+  ],
+  "198b551e1bf1a4022b61128db28072974bb64561": [
+    "e2e\\file_no_deleted_multi_path_1.md",
+    "e2e\\file_no_deleted_multi_path_2.md"
+  ],
+  "78a8983ce959ce44465239291da9b9fbf2e9c034": [
+    "e2e\\file_no_deleted_multi_path_1.md",
+    "e2e\\file_no_deleted_multi_path_2.md"
+  ],
+  "a4a56a44fa825b193ac4c95eb373eddf43ca6a13": [
+    "e2e\\file_no_deleted_single_path.md"
+  ],
+  "3cf83be1f866c01f77ae22065e6daf827353b4cf": [
+    "e2e\\file_no_deleted_single_path.md"
+  ],
+  "7d17417086b4aa672689be958808e6321cf0adcf": [
+    "e2e\\file_no_deleted_single_path.md"
+  ],
+  "8962035c0b2e8bf1c5024d35748ed74aef1ae51c": [
+    "e2e\\file_partial_deleted_multi_path_1.md",
+    "e2e\\file_partial_deleted_multi_path_2.md"
+  ],
+  "bd9035287308413230fa3d0b9becd5c303cd252f": [
+    "e2e\\file_partial_deleted_multi_path_1.md",
+    "e2e\\file_partial_deleted_multi_path_2.md"
   ]
 }
