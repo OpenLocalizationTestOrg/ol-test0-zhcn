@@ -5,20 +5,17 @@
  -------- | ----- 
  Total Files | 6
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1
+[ Handoff Success Files ](#handoff-success-list)| 0
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 1
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
-[ In Sync Handback Files ](#insync-handback-success-list)| 3
+[ In Sync Handback Files ](#insync-handback-success-list)| 4
 [ Ignored Files ](#ignored-list)| 1
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
 ## <a name='handoff-success-list'></a> Handoff Success File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [e2e\d442a92f-3bef-4c1f-9754-47b1349b97ad.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/b4fa8ac5685632935a9096f2c14de9996ae93f90/e2e/d442a92f-3bef-4c1f-9754-47b1349b97ad.md) | HandedOffSuccess | [Details](#b29fed698b149c3c1a35b93a38a03074887b6ef23)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
 
@@ -36,6 +33,7 @@
  ----------- | ------ | ------- 
  [e2e\47902b85-464e-415b-85a4-f02bb6da18a9.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/75618b0b456dd8e51f367c38288adfd2cac354f6/e2e/47902b85-464e-415b-85a4-f02bb6da18a9.md) | InSyncHandedBackSuccess | [Details](#3ac595bd1d8ca3412756c1b2e34ae5aa3b677f0e1)
  [e2e\530290e6-5491-4005-a69b-99d51fd2293c.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/4266affe73f893bb7304a4d1636bc53aca602b9b/e2e/530290e6-5491-4005-a69b-99d51fd2293c.md) | InSyncHandedBackSuccess | [Details](#bb189a602793dfd7f916e51bb021480ca0ad8f532)
+ [e2e\d442a92f-3bef-4c1f-9754-47b1349b97ad.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/b4fa8ac5685632935a9096f2c14de9996ae93f90/e2e/d442a92f-3bef-4c1f-9754-47b1349b97ad.md) | InSyncHandedBackSuccess | [Details](#b29fed698b149c3c1a35b93a38a03074887b6ef23)
  [e2e\d6c0a0b0-2f34-47c6-8de5-d5709a9086dc.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/b4fa8ac5685632935a9096f2c14de9996ae93f90/e2e/d6c0a0b0-2f34-47c6-8de5-d5709a9086dc.md) | InSyncHandedBackSuccess | [Details](#3ac595bd1d8ca3412756c1b2e34ae5aa3b677f0e4)
 
 ## <a name='ignored-list'></a> Ignored File List
@@ -81,15 +79,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='b29fed698b149c3c1a35b93a38a03074887b6ef23'></a> Source: [e2e\d442a92f-3bef-4c1f-9754-47b1349b97ad.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/b4fa8ac5685632935a9096f2c14de9996ae93f90/e2e/d442a92f-3bef-4c1f-9754-47b1349b97ad.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [e2e\d442a92f-3bef-4c1f-9754-47b1349b97ad.md](https://github.com/OpenLocalizationTestOrg/ol-test0-zhcn/blob/93de1ce85f90431a02a6c518f06ded4d0bb5257a/e2e/d442a92f-3bef-4c1f-9754-47b1349b97ad.md)
 * Handoff File: [d442a92f-3bef-4c1f-9754-47b1349b97ad.ddb4399e7cf71cd760c731497bccddc6f9f50598.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/53d62288888217d836e8fd8c7e99289dfd64caf8/ol-handoff/OpenLocalizationTestOrg/ol-test0-zhcn/ci/ht/d442a92f-3bef-4c1f-9754-47b1349b97ad.ddb4399e7cf71cd760c731497bccddc6f9f50598.zh-cn.xlf)
 * Handoff Datetime: 2016-09-06 07:01:50
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [d442a92f-3bef-4c1f-9754-47b1349b97ad.ddb4399e7cf71cd760c731497bccddc6f9f50598.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/03fed90e5d349fd457f4926f7d84a2f53d065097/ol-handback/OpenLocalizationTestOrg/ol-test0-zhcn/ci/ht/d442a92f-3bef-4c1f-9754-47b1349b97ad.ddb4399e7cf71cd760c731497bccddc6f9f50598.zh-cn.xlf)
+* Handback Datetime: 2016-09-06 07:02:42
 * [Back to Top](#report-top)
 
 ##### <a name='3ac595bd1d8ca3412756c1b2e34ae5aa3b677f0e4'></a> Source: [e2e\d6c0a0b0-2f34-47c6-8de5-d5709a9086dc.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/b4fa8ac5685632935a9096f2c14de9996ae93f90/e2e/d6c0a0b0-2f34-47c6-8de5-d5709a9086dc.md)
