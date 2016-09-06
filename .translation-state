@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "bc3e420cf2ba0b592fe6ba6a3012c610530e4dbb",
-  "LastTranslatedCommit": "771c1291955a64517dc5abc1e4faa2118f8a7fdc",
+  "LastTranslatedCommit": "c61e2fe654a24c4456fd9bdca43e296352f2c0ea",
   "Items": {
     "1d4f7645a5c4f7b7963779bf619d122a625c1ecd": {
       "FileHash": "1d4f7645a5c4f7b7963779bf619d122a625c1ecd",
@@ -8588,9 +8588,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-09-06T06:58:50.1951654Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: xdhah1ra.o5c is different with handoff file name: fd84fde3-187a-4b30-b30a-8852ef3c7f50.a04401a98b753b71510563fda315697abd7a5853.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: xdhah1ra.o5c is different with handoff file name: fd84fde3-187a-4b30-b30a-8852ef3c7f50.a04401a98b753b71510563fda315697abd7a5853.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
