@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "2b1c4afa38933b3036931f4e6a844bce5236a747",
-  "LastTranslatedCommit": "7eed8c6b9fb119aa831cdcbadcfd16eb17be4e4e",
+  "LastTranslatedCommit": "c4029e93869d63e61255baba8c4db866db502e50",
   "Items": {
     "1d4f7645a5c4f7b7963779bf619d122a625c1ecd": {
       "FileHash": "1d4f7645a5c4f7b7963779bf619d122a625c1ecd",
@@ -24008,9 +24008,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-09-06T19:08:36.2273061Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: k4invyz1.41z is different with handoff file name: 92a3d312-cb17-48fc-9cbc-a063edc92cee.599831cafd868b49e8317b23fe0c3f6872ecde49.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: k4invyz1.41z is different with handoff file name: 92a3d312-cb17-48fc-9cbc-a063edc92cee.599831cafd868b49e8317b23fe0c3f6872ecde49.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
