@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "dd0ea2f114dd2574d39a30c1b8db13e849d1777a",
-  "LastTranslatedCommit": "fd099b551bb367f78b17c97b87cfaa86be55ff79",
+  "LastTranslatedCommit": "3646e8df410e12889b76607d9acc13cabcecbf5b",
   "Items": {
     "1d4f7645a5c4f7b7963779bf619d122a625c1ecd": {
       "FileHash": "1d4f7645a5c4f7b7963779bf619d122a625c1ecd",
@@ -42512,9 +42512,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-09-07T07:11:40.6399437Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: ct0v4vwn.sfp is different with handoff file name: 06e6f787-e5cf-48d3-9e97-84bd3f7dbb6e.4dbde9024bd557db508680c3db837c542d9e572a.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: ct0v4vwn.sfp is different with handoff file name: 06e6f787-e5cf-48d3-9e97-84bd3f7dbb6e.4dbde9024bd557db508680c3db837c542d9e572a.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
