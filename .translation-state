@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "6a941fc92408f07bfeb20ee783c18b64b807fd24",
-  "LastTranslatedCommit": "5f2b4693fcf25de2b303b0a5bf9efe43b84b6512",
+  "LastTranslatedCommit": "5f72574366ba46d7e2f93616fcea65745c27c763",
   "Items": {
     "1d4f7645a5c4f7b7963779bf619d122a625c1ecd": {
       "FileHash": "1d4f7645a5c4f7b7963779bf619d122a625c1ecd",
@@ -39428,9 +39428,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-09-07T05:05:18.9666379Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: nn3pfutu.11j is different with handoff file name: a2cb966c-a58d-4b02-8e2a-f17e5cae2df9.3d4316099d0578f2151ae0da158cf9bda06b6011.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: nn3pfutu.11j is different with handoff file name: a2cb966c-a58d-4b02-8e2a-f17e5cae2df9.3d4316099d0578f2151ae0da158cf9bda06b6011.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
