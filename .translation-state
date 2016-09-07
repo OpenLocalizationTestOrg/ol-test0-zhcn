@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "57b944171e6c82c73cd48002ffb2bacc537bc1f8",
+  "LastProcessedCommit": "5c1cf617a3e10a46d830411582fa12ca305af00f",
   "LastTranslatedCommit": "64b10af03473168b619eb031378d9c8773e089f3",
   "Items": {
     "1d4f7645a5c4f7b7963779bf619d122a625c1ecd": {
@@ -45784,6 +45784,41 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "2016-09-07T09:26:30.4501588Z",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
+    },
+    "6869d07758119efbc6c9d8dc63327f2ea2b0fa65": {
+      "FileHash": "6869d07758119efbc6c9d8dc63327f2ea2b0fa65",
+      "SourceFileCommit": "5c1cf617a3e10a46d830411582fa12ca305af00f",
+      "SourceFilePath": "e2e\\5ed9a9ff-9c92-478c-873a-7fe0e3bccb6e.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "e2e\\5ed9a9ff-9c92-478c-873a-7fe0e3bccb6e.md"
+      ],
+      "HasMetadata": false,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\ol-test0-zhcn\\ci\\ht\\5ed9a9ff-9c92-478c-873a-7fe0e3bccb6e.83b46e55fa0e936070718a24612133eea82259e9.zh-cn.xlf",
+      "HandoffFileCommit": "abe4bf00a68dcf8625e2a2e8c8e5e7ae7433da63",
+      "HandoffDateTime": "2016-09-07T09:28:48.6652483Z",
+      "HandoffPriority": "ht",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
