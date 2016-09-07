@@ -5,9 +5,9 @@
  -------- | ----- 
  Total Files | 8
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 3
+[ Handoff Success Files ](#handoff-success-list)| 2
 [ Archive Failed Files ](#archive-failed-list)| 0
-[ Archive Success Files ](#archive-success-list)| 3
+[ Archive Success Files ](#archive-success-list)| 4
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 1
@@ -20,7 +20,6 @@
  ----------- | ------ | ------- 
  [e2e\3e883624-a006-461c-976c-f3d09aed599d.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/7413c0b9a3d426203658e605f843296670f6caee/e2e/3e883624-a006-461c-976c-f3d09aed599d.md) | HandedOffSuccess | [Details](#8916dd840d4de5e6e53e44c796bb41e64afa3c8a3)
  [e2e\60acfe56-4486-45df-a427-8cc3d162b4e8.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/eefdf78a4dfe36567b77a2d78daf2e5f59b700a5/e2e/60acfe56-4486-45df-a427-8cc3d162b4e8.md) | HandedOffSuccess | [Details](#2e2309cac96c4a2e3e1a4f09c9adfb204da26e624)
- [e2e\9a0dc922-44b1-4e71-b24d-f3b1c7eeeba3.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/9d126f93cb3233ed1c59a7c9bf41e229a2f66da1/e2e/9a0dc922-44b1-4e71-b24d-f3b1c7eeeba3.md) | HandedOffSuccess | [Details](#f735b53bfb843c7cf736ec62ec584e4e6ec919f56)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
 
@@ -29,6 +28,7 @@
  ----------- | ------ | ------- 
  [e2e\156a5dd3-6fe1-48d1-855e-8ce75a80183b.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/d1ae672d06c681f05cfbd0ac27a8ffcbb8b3db66/e2e/156a5dd3-6fe1-48d1-855e-8ce75a80183b.md) | ArchivedSuccess | [Details](#7357beca0d541e5da05222e3ee8fb45a90e6a7c31)
  [e2e\1a196c84-d457-4660-8d22-3ea63e460512.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/eead0aef2e55ab77ce7de9d8d1e1ebbb5fb2d531/e2e/1a196c84-d457-4660-8d22-3ea63e460512.md) | ArchivedSuccess | [Details](#799ae5dec6ca64d907a5e36b625a52b524b885cf2)
+ [e2e\9a0dc922-44b1-4e71-b24d-f3b1c7eeeba3.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/9d126f93cb3233ed1c59a7c9bf41e229a2f66da1/e2e/9a0dc922-44b1-4e71-b24d-f3b1c7eeeba3.md) | ArchivedSuccess | [Details](#f735b53bfb843c7cf736ec62ec584e4e6ec919f56)
  [e2e\e6bb9962-9ec7-4151-b39c-533396f13e47.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/eead0aef2e55ab77ce7de9d8d1e1ebbb5fb2d531/e2e/e6bb9962-9ec7-4151-b39c-533396f13e47.md) | ArchivedSuccess | [Details](#a15e9658fef22372341f73179e08f4897f770d917)
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
@@ -119,13 +119,13 @@
 * [Back to Top](#report-top)
 
 ##### <a name='f735b53bfb843c7cf736ec62ec584e4e6ec919f56'></a> Source: [e2e\9a0dc922-44b1-4e71-b24d-f3b1c7eeeba3.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/9d126f93cb3233ed1c59a7c9bf41e229a2f66da1/e2e/9a0dc922-44b1-4e71-b24d-f3b1c7eeeba3.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [9a0dc922-44b1-4e71-b24d-f3b1c7eeeba3.44e708b35d8f91b20c4bcf976d68672c0689e291.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/e15558cebbcf51d9a6f191a91a6e809ce4d6499a/ol-handoff/OpenLocalizationTestOrg/ol-test0-zhcn/ci/ht/9a0dc922-44b1-4e71-b24d-f3b1c7eeeba3.44e708b35d8f91b20c4bcf976d68672c0689e291.zh-cn.xlf)
 * Handoff Datetime: 2016-09-07 04:56:18
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [9a0dc922-44b1-4e71-b24d-f3b1c7eeeba3.44e708b35d8f91b20c4bcf976d68672c0689e291.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/2fa7a4b88467190f17b7398472a09b65d4eeb968/ol-archive/OpenLocalizationTestOrg/ol-test0-zhcn/ci/ht/9a0dc922-44b1-4e71-b24d-f3b1c7eeeba3.44e708b35d8f91b20c4bcf976d68672c0689e291.zh-cn.xlf)
+* Archive Datetime: 2016-09-07 04:57:12
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [e2e\9a0dc922-44b1-4e71-b24d-f3b1c7eeeba3.md](https://github.com/OpenLocalizationTestOrg/ol-test0-zhcn/blob/5a4f1b9732198805998b6effa005997f1b7e0a7e/e2e/9a0dc922-44b1-4e71-b24d-f3b1c7eeeba3.md)
