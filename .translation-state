@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "2ad352d8677c3c28c2869214733afb1d000e619f",
-  "LastTranslatedCommit": "d0dc1f24e3b59dd2475d59c92a600941343c6ec5",
+  "LastTranslatedCommit": "714ac742bb927e8ed04224125fd8d8a480293e11",
   "Items": {
     "d2e060e3505f54f39fe05acbf4c9c200a6088aec": {
       "FileHash": "d2e060e3505f54f39fe05acbf4c9c200a6088aec",
@@ -5124,9 +5124,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-09-07T13:43:38.8335453Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: 4z4ypkyc.krx is different with handoff file name: 897ca6f8-c65e-49d2-a072-bd80d51d400d.e67a7238f2e04c3686c8a6bc59d98e6096946590.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: 4z4ypkyc.krx is different with handoff file name: 897ca6f8-c65e-49d2-a072-bd80d51d400d.e67a7238f2e04c3686c8a6bc59d98e6096946590.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
