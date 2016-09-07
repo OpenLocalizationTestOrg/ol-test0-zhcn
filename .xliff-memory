@@ -1093,7 +1093,7 @@
       "SourceFilename": "e2e\\b.md",
       "XliffHash": "7ae904abfade0b77fb1a98f6883a8fe747b3dc27",
       "TranslationType": 1,
-      "IsArchived": false,
+      "IsArchived": true,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yuwzho\\84a8c2c166f975f577e2b51fc157c4f54aec30f3.3116d0b9e0a1190137ea05c9e584a610580dc7e8.xml",
       "LocXliff": null,
       "LocXliffCommit": null
