@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "1b88f2eceb5b1a878ed9ef90892d6209ef5e2566",
-  "LastTranslatedCommit": "6e163af3dd0e6ea186d6bfb39d15c52fae53b116",
+  "LastTranslatedCommit": "e2d8f207c9201c9e9de9bd83ed6522a473b9d49b",
   "Items": {
     "d2e060e3505f54f39fe05acbf4c9c200a6088aec": {
       "FileHash": "d2e060e3505f54f39fe05acbf4c9c200a6088aec",
@@ -1114,9 +1114,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-09-07T09:20:48.7658121Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: lhcji25j.0av is different with handoff file name: 1bad0ca8-edca-4799-b747-5cc3de51585e.4a94cb0b385f25df5e5a046fbe23014c03428b80.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: lhcji25j.0av is different with handoff file name: 1bad0ca8-edca-4799-b747-5cc3de51585e.4a94cb0b385f25df5e5a046fbe23014c03428b80.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
