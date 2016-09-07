@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "362373ae9bd3d976a7654d29921e876cd2627c38",
-  "LastTranslatedCommit": "9c149bc1e93bb283bbb4da6ebf7ab0ab6af23273",
+  "LastTranslatedCommit": "5b239edba757dc614f7a174113f54cede90a129b",
   "Items": {
     "1d4f7645a5c4f7b7963779bf619d122a625c1ecd": {
       "FileHash": "1d4f7645a5c4f7b7963779bf619d122a625c1ecd",
@@ -36344,9 +36344,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-09-07T03:03:36.4640068Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: 4dyxnl1m.ir1 is different with handoff file name: 1f59c2f2-e1dd-463f-ab74-8bdc62288281.22d0a7fe9c3f3190fe85f57c41263c570b36e9b2.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: 4dyxnl1m.ir1 is different with handoff file name: 1f59c2f2-e1dd-463f-ab74-8bdc62288281.22d0a7fe9c3f3190fe85f57c41263c570b36e9b2.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
