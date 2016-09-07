@@ -809,6 +809,24 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yuwzho\\4f10b27afb24c8202bb9f55e8620d677b6c25ee6.5ec8b1adbbedec90e6faa38e0c8edccf23c1af81.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yuwzho\\5a13b0ea-f606-4ec0-af18-b40d3a1fae34.e2f88b770a8cb3f2d9c9d8c7cf5b91e4664fd65f.zh-cn.xlf",
       "LocXliffCommit": "d35202062a5b3bdd6d64d24af859362297a00e72"
+    },
+    "e2e\\04a99f38-be55-4f8c-a8ef-0656caf24ca4oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.md.f29907751a173935fb4cfc0537d3c078cfee8e8f.HT": {
+      "SourceFilename": "e2e\\04a99f38-be55-4f8c-a8ef-0656caf24ca4oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.md",
+      "XliffHash": "f29907751a173935fb4cfc0537d3c078cfee8e8f",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yuwzho\\2670095c26e3ed9b8c61fd7c183169b811f691a3.0572567f9fd4411c9e42c901e5ae1be03eb2d3a0.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "e2e\\2d644534-6e5f-486e-a13e-278a94c42a8boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.md.945568f16f03681d84f6db27d830f679c3e7f04a.HT": {
+      "SourceFilename": "e2e\\2d644534-6e5f-486e-a13e-278a94c42a8boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.md",
+      "XliffHash": "945568f16f03681d84f6db27d830f679c3e7f04a",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yuwzho\\c2ba69f8b2afb18a018cb07395fbb3a79f814d54.fe434de9ec87cf17c6e112f9fa4addb937748c21.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
