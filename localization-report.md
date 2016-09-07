@@ -5,9 +5,9 @@
  -------- | ----- 
  Total Files | 2
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1
+[ Handoff Success Files ](#handoff-success-list)| 0
 [ Archive Failed Files ](#archive-failed-list)| 0
-[ Archive Success Files ](#archive-success-list)| 0
+[ Archive Success Files ](#archive-success-list)| 1
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
@@ -16,13 +16,13 @@
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
 ## <a name='handoff-success-list'></a> Handoff Success File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [e2e\ef5e8878-bc3b-47b4-8614-301c5907e6c9ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/2193a97125619ab4a4d9961445d8fe83f0ed5e77/e2e/ef5e8878-bc3b-47b4-8614-301c5907e6c9ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.md) | HandedOffSuccess | [Details](#1e44d1e48a565f172eeab628d3b5e81e1aa447781)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
 
 ## <a name='archive-success-list'></a> Archive Success File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [e2e\ef5e8878-bc3b-47b4-8614-301c5907e6c9ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/2193a97125619ab4a4d9961445d8fe83f0ed5e77/e2e/ef5e8878-bc3b-47b4-8614-301c5907e6c9ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.md) | ArchivedSuccess | [Details](#1e44d1e48a565f172eeab628d3b5e81e1aa447781)
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
 
@@ -49,13 +49,13 @@
 * [Back to Top](#report-top)
 
 ##### <a name='1e44d1e48a565f172eeab628d3b5e81e1aa447781'></a> Source: [e2e\ef5e8878-bc3b-47b4-8614-301c5907e6c9ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/2193a97125619ab4a4d9961445d8fe83f0ed5e77/e2e/ef5e8878-bc3b-47b4-8614-301c5907e6c9ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [ef5e8878-bc3b-47b4-8614-301c5907e6c9oooooooooooooooooooooooooooooooooooooooo.ea8d9c10069ed703f01e4c92c488c4dd8a8ffe90.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/201d3d71e6e93f51e8ec083dc25fb1502b4004f3/ol-handoff/OpenLocalizationTestOrg/ol-test0-zhcn/ci/ht/ef5e8878-bc3b-47b4-8614-301c5907e6c9oooooooooooooooooooooooooooooooooooooooo.ea8d9c10069ed703f01e4c92c488c4dd8a8ffe90.zh-cn.xlf)
 * Handoff Datetime: 2016-09-07 04:37:12
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [ef5e8878-bc3b-47b4-8614-301c5907e6c9oooooooooooooooooooooooooooooooooooooooo.ea8d9c10069ed703f01e4c92c488c4dd8a8ffe90.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/1930c9edb27fb72ae26374384efc6d6039792965/ol-archive/OpenLocalizationTestOrg/ol-test0-zhcn/ci/ht/ef5e8878-bc3b-47b4-8614-301c5907e6c9oooooooooooooooooooooooooooooooooooooooo.ea8d9c10069ed703f01e4c92c488c4dd8a8ffe90.zh-cn.xlf)
+* Archive Datetime: 2016-09-07 04:37:28
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
