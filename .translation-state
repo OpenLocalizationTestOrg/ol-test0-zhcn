@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "637e03ed27ec328ba09248913337114e7e4acaab",
+  "LastProcessedCommit": "d7cd22b1b69191a649d57127cd612ccb204a530b",
   "LastTranslatedCommit": "3132ea26814cf1e1e177eefce45a9fa06d86fe45",
   "Items": {
     "d2e060e3505f54f39fe05acbf4c9c200a6088aec": {
@@ -5023,6 +5023,41 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "2016-09-07T13:35:41.1589477Z",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
+    },
+    "ac1f0bb3eb3a63d3e620a1570f40bb7281f18fb1": {
+      "FileHash": "ac1f0bb3eb3a63d3e620a1570f40bb7281f18fb1",
+      "SourceFileCommit": "d7cd22b1b69191a649d57127cd612ccb204a530b",
+      "SourceFilePath": "e2e\\f892c0ef-99ee-4e39-9618-3dd04a5fbffe.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "e2e\\f892c0ef-99ee-4e39-9618-3dd04a5fbffe.md"
+      ],
+      "HasMetadata": false,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yuwzho\\ht\\f892c0ef-99ee-4e39-9618-3dd04a5fbffe.168f110722c92f75427f04891713eb4192577412.zh-cn.xlf",
+      "HandoffFileCommit": "9fa35afab22f9142a8b83578a1bd4b9a9b97b264",
+      "HandoffDateTime": "2016-09-07T13:37:06.065385Z",
+      "HandoffPriority": "ht",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
