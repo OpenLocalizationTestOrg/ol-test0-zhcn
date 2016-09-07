@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "c35873621dab4bc4b7417b48abe37db0736a5c50",
-  "LastTranslatedCommit": "0f7b0c176cd630195ff8d0658080715575c275a8",
+  "LastTranslatedCommit": "e7a3b77ef54487d8d38e2158dd616d8a64c071b7",
   "Items": {
     "1d4f7645a5c4f7b7963779bf619d122a625c1ecd": {
       "FileHash": "1d4f7645a5c4f7b7963779bf619d122a625c1ecd",
@@ -48680,9 +48680,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-09-07T11:10:51.7734334Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: ptid2kdy.vqx is different with handoff file name: 1a2c766d-8b1c-4062-82fa-36ca7862d7ee.07ac5614b163c6659063d05d00da37cd89deb28c.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: ptid2kdy.vqx is different with handoff file name: 1a2c766d-8b1c-4062-82fa-36ca7862d7ee.07ac5614b163c6659063d05d00da37cd89deb28c.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
