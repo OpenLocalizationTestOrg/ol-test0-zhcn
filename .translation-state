@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "b5f91d858ccc4288e7d61298915cff976e7444be",
-  "LastTranslatedCommit": "6c0b6bc0ab77e4599a4b3718acddf7e86b3946a0",
+  "LastTranslatedCommit": "436b41b67f4c33931fa0bb457bf1c01ea60b7f4b",
   "Items": {
     "1d4f7645a5c4f7b7963779bf619d122a625c1ecd": {
       "FileHash": "1d4f7645a5c4f7b7963779bf619d122a625c1ecd",
@@ -33260,9 +33260,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-09-07T01:08:39.1526937Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: q31wpcmq.1kr is different with handoff file name: f1accf87-46eb-437f-8e5c-dc11a701df30.1293a5faf9d50cdb002504960179651e907241d8.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: q31wpcmq.1kr is different with handoff file name: f1accf87-46eb-437f-8e5c-dc11a701df30.1293a5faf9d50cdb002504960179651e907241d8.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
