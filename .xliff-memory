@@ -1079,6 +1079,15 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yuwzho\\c490375c710afb480a6958392c30aff1e12fdb39.6ac9237f88b357d9875522631bdfd00d76c7f86c.xml",
       "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yuwzho\\ht\\a5584dfe-a772-452b-bcae-a57c8e157f46.ac35884a4aa96b31ee522ff49afd0d7e0ffa5b1a.zh-cn.xlf",
       "LocXliffCommit": "696dd235103e9aedbe2fb0da27c477b75cb685f6"
+    },
+    "e2e\\a.md.37090bd31c059dbc598de864c08665bb32c8ed56.HT": {
+      "SourceFilename": "e2e\\a.md",
+      "XliffHash": "37090bd31c059dbc598de864c08665bb32c8ed56",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yuwzho\\a50b3233c02030191fc4bb0c6fa30bde17865f92.7a098d638e07d2c71f274ebb07331f0127a890f3.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
