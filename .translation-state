@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "624da6f6774c3ec29d7d90388a7dfc28e9f07503",
-  "LastTranslatedCommit": "56b22a902b3a4b143e89b11496a739a1d179ac21",
+  "LastTranslatedCommit": "e0a82d13f06cb473c2e5e61c355d9e9de50e5720",
   "Items": {
     "1d4f7645a5c4f7b7963779bf619d122a625c1ecd": {
       "FileHash": "1d4f7645a5c4f7b7963779bf619d122a625c1ecd",
@@ -45596,9 +45596,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-09-07T09:18:34.7736796Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: yh5qzm1q.1in is different with handoff file name: 9cb99ef0-fa45-4deb-9f32-d7e4291f59fb.878cd327150e146efa3d4d885644520fb20e3f4d.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: yh5qzm1q.1in is different with handoff file name: 9cb99ef0-fa45-4deb-9f32-d7e4291f59fb.878cd327150e146efa3d4d885644520fb20e3f4d.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
