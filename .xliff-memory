@@ -125,6 +125,15 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yuwzho\\2cb4f285a0d359404a78d3f9f0303af2170a9356.85d3c8daa6fe41b3d6c476488f970f34b9ce63fe.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "e2e\\test-content-1.md.6f62338e0c0b1d00d755f6c07328d5f40b1dc1ca.HT": {
+      "SourceFilename": "e2e\\test-content-1.md",
+      "XliffHash": "6f62338e0c0b1d00d755f6c07328d5f40b1dc1ca",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yuwzho\\ac5610e14e35343352c9459b3e335b10c5a31637.9cb5924f0745011fac810c01aef08f8e915a65f4.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
