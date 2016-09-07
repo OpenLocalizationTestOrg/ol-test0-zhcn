@@ -6,15 +6,15 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\0967605d-44b9-406a-89a1-fffa8db97326.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/7456d31cc723e507bdabf0ac5d86260925606fea/e2e/0967605d-44b9-406a-89a1-fffa8db97326.md) | HandedOffSuccess | [Details](#ce4ac08f745c439f5bad175f8ff10714ac5af80b1)
- [e2e\fa1c9c0c-9441-486b-a67d-68123ec0002a.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/7456d31cc723e507bdabf0ac5d86260925606fea/e2e/fa1c9c0c-9441-486b-a67d-68123ec0002a.md) | HandedOffSuccess | [Details](#84b963aefb0349c07b7233f1c88923591f5e66b94)
+ [e2e\3fb8790c-1dd7-4359-97a8-dba3c4cce0a7.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/e78844604966a67667d32a5f284ebeebf3b53fa9/e2e/3fb8790c-1dd7-4359-97a8-dba3c4cce0a7.md) | HandedOffSuccess | [Details](#75c4b99bd78e822fc88ecadc92761e2233ba14923)
+ [e2e\663c9331-3c7f-498c-b2ec-ee5e55b66c52.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/e78844604966a67667d32a5f284ebeebf3b53fa9/e2e/663c9331-3c7f-498c-b2ec-ee5e55b66c52.md) | HandedOffSuccess | [Details](#b1905d147bedb337355259ef285ab20b0346879e5)
 
 ## Item Details
-##### <a name='ce4ac08f745c439f5bad175f8ff10714ac5af80b1'></a> Source: [e2e\0967605d-44b9-406a-89a1-fffa8db97326.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/7456d31cc723e507bdabf0ac5d86260925606fea/e2e/0967605d-44b9-406a-89a1-fffa8db97326.md)
+##### <a name='75c4b99bd78e822fc88ecadc92761e2233ba14923'></a> Source: [e2e\3fb8790c-1dd7-4359-97a8-dba3c4cce0a7.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/e78844604966a67667d32a5f284ebeebf3b53fa9/e2e/3fb8790c-1dd7-4359-97a8-dba3c4cce0a7.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [0967605d-44b9-406a-89a1-fffa8db97326.99913ea0cf0466375e41b4266deb1c6d0767bbd0.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/fa9e63f0883f81ccae070fe6a738ae887be48297/ol-handoff/OpenLocalizationTestOrg/ol-test0-zhcn/ci/ht/0967605d-44b9-406a-89a1-fffa8db97326.99913ea0cf0466375e41b4266deb1c6d0767bbd0.zh-cn.xlf)
-* Handoff Datetime: 2016-09-07 00:56:01
+* Handoff File: [3fb8790c-1dd7-4359-97a8-dba3c4cce0a7.8aaea309b3cda4109d60229746798889092aad7e.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/f61b11602d76d1fc441a06f6c851490cccda1949/ol-handoff/OpenLocalizationTestOrg/ol-test0-zhcn/ci/ht/3fb8790c-1dd7-4359-97a8-dba3c4cce0a7.8aaea309b3cda4109d60229746798889092aad7e.zh-cn.xlf)
+* Handoff Datetime: 2016-09-07 00:56:46
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -22,11 +22,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='84b963aefb0349c07b7233f1c88923591f5e66b94'></a> Source: [e2e\fa1c9c0c-9441-486b-a67d-68123ec0002a.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/7456d31cc723e507bdabf0ac5d86260925606fea/e2e/fa1c9c0c-9441-486b-a67d-68123ec0002a.md)
+##### <a name='b1905d147bedb337355259ef285ab20b0346879e5'></a> Source: [e2e\663c9331-3c7f-498c-b2ec-ee5e55b66c52.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/e78844604966a67667d32a5f284ebeebf3b53fa9/e2e/663c9331-3c7f-498c-b2ec-ee5e55b66c52.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [fa1c9c0c-9441-486b-a67d-68123ec0002a.2ffacba55652de542d29e8a9e821fc0cbe5ebd67.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/fa9e63f0883f81ccae070fe6a738ae887be48297/ol-handoff/OpenLocalizationTestOrg/ol-test0-zhcn/ci/ht/fa1c9c0c-9441-486b-a67d-68123ec0002a.2ffacba55652de542d29e8a9e821fc0cbe5ebd67.zh-cn.xlf)
-* Handoff Datetime: 2016-09-07 00:56:01
+* Handoff File: [663c9331-3c7f-498c-b2ec-ee5e55b66c52.319efdebb2fd213b6a4d8844c206a779345a9023.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/f61b11602d76d1fc441a06f6c851490cccda1949/ol-handoff/OpenLocalizationTestOrg/ol-test0-zhcn/ci/ht/663c9331-3c7f-498c-b2ec-ee5e55b66c52.319efdebb2fd213b6a4d8844c206a779345a9023.zh-cn.xlf)
+* Handoff Datetime: 2016-09-07 00:56:46
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
