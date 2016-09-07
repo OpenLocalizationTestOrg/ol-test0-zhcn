@@ -1104,8 +1104,8 @@
       "TranslationType": 1,
       "IsArchived": false,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yuwzho\\9181b6fe5a3c2af237b2ef240761c260db2034e4.a3abe7437c82f63d60a783925933c4084ef9957a.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yuwzho\\mt\\file_no_deleted_single_path.84480e30a75eaa7877ca77d49d2059db6121edd7.zh-cn.xlf",
+      "LocXliffCommit": "fcd2ad9fd9a1f49bd50b21f3e7b8cb288f0af676"
     },
     "e2e\\file_full_deleted_single_path.md.6d29ff5a840cbc211aa4747d9fca8ab745c4313b.HT": {
       "SourceFilename": "e2e\\file_full_deleted_single_path.md",
@@ -1122,8 +1122,8 @@
       "TranslationType": 1,
       "IsArchived": false,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yuwzho\\0ffdc154cc7232d0573dad290bb32bda313175a1.98141ebf905140f16954a9376551521236571cdb.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yuwzho\\mt\\file_partial_deleted_multi_path_1.950eb2cafff7c1eccbf1f4ff641b1cbe66aecd0c.zh-cn.xlf",
+      "LocXliffCommit": "fcd2ad9fd9a1f49bd50b21f3e7b8cb288f0af676"
     },
     "e2e\\file_no_deleted_multi_path_1.md.bd6c540a99f3dc75a13080196cde8cbd5ebbe2b0.HT": {
       "SourceFilename": "e2e\\file_no_deleted_multi_path_1.md",
@@ -1131,8 +1131,8 @@
       "TranslationType": 1,
       "IsArchived": false,
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yuwzho\\6b026266345d5b09d46ac41aea39ade203cc97d3.b90ceed3c849aaa3203ea6e6ced9938b00db55c0.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yuwzho\\mt\\file_no_deleted_multi_path_1.2336e4b28de82563dc9ea89a1eb254ab730456de.zh-cn.xlf",
+      "LocXliffCommit": "fcd2ad9fd9a1f49bd50b21f3e7b8cb288f0af676"
     },
     "e2e\\file_full_deleted_multi_path_1.md.50c15b3bc906238a11308209baf9a07e54088a16.HT": {
       "SourceFilename": "e2e\\file_full_deleted_multi_path_1.md",
