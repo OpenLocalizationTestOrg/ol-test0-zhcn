@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "4050ce848ee2936643b5691bd7d2162ceca8258e",
-  "LastTranslatedCommit": "f9fa8689caac51d68bf1ae0bfd708fd361c80f23",
+  "LastTranslatedCommit": "57351957a79d6430bc27d55b760c527006543313",
   "Items": {
     "1d4f7645a5c4f7b7963779bf619d122a625c1ecd": {
       "FileHash": "1d4f7645a5c4f7b7963779bf619d122a625c1ecd",
@@ -54848,9 +54848,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-09-08T05:07:32.5517581Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: ddsc0upu.nf1 is different with handoff file name: 20a5c65a-f8fb-499a-a53a-41282ae29a11.e8ff649b42034cd2db58cd33a71d9cb98689a775.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: ddsc0upu.nf1 is different with handoff file name: 20a5c65a-f8fb-499a-a53a-41282ae29a11.e8ff649b42034cd2db58cd33a71d9cb98689a775.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
