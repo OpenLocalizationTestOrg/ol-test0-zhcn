@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "293157402b5922e87ff62584654fbc4c8b00c2fc",
+  "LastProcessedCommit": "9d9171749608c469e82f14a1ff686e5aef536bea",
   "LastTranslatedCommit": "90e6f36818a9862cd47638c89ee86113251da5e2",
   "Items": {
     "d2e060e3505f54f39fe05acbf4c9c200a6088aec": {
@@ -11480,6 +11480,41 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yuwzho\\ht\\7dcaaed2-ce52-49bf-8b08-9e8440eab654.17f08da045791211290bc28c970e35d1259d1baf.zh-cn.xlf",
       "HandoffFileCommit": "3008d92d27a0d30ff33858c7f8c0a1da7d592530",
       "HandoffDateTime": "2016-09-09T13:10:53.2514631Z",
+      "HandoffPriority": "ht",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
+    },
+    "3ca68f38260ad909f3d6de403f8d8aebfe38de46": {
+      "FileHash": "3ca68f38260ad909f3d6de403f8d8aebfe38de46",
+      "SourceFileCommit": "9d9171749608c469e82f14a1ff686e5aef536bea",
+      "SourceFilePath": "e2e\\f48566f5-e7cf-497f-9071-cdc761036d89.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "e2e\\f48566f5-e7cf-497f-9071-cdc761036d89.md"
+      ],
+      "HasMetadata": false,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yuwzho\\ht\\f48566f5-e7cf-497f-9071-cdc761036d89.8c9507fabcd24dc4074237a2f690a945aa15e5bb.zh-cn.xlf",
+      "HandoffFileCommit": "22a8416ddd36e33f4d27f333d678209941d418b4",
+      "HandoffDateTime": "2016-09-09T13:12:46.0007891Z",
       "HandoffPriority": "ht",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
