@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "06c895eb5f1db3805ac7e2fa68b5549d219c3155",
+  "LastProcessedCommit": "b982ee8b664dc305895eacb16ac62d012c397240",
   "LastTranslatedCommit": "3d13cc0a8ac0d6254735aa971b03244acc09ad09",
   "Items": {
     "d2e060e3505f54f39fe05acbf4c9c200a6088aec": {
@@ -10558,6 +10558,41 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "2016-09-09T12:23:27.1575717Z",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
+    },
+    "7e519a7be2d5512eb3c2a1f377b60ac6b31c89f6": {
+      "FileHash": "7e519a7be2d5512eb3c2a1f377b60ac6b31c89f6",
+      "SourceFileCommit": "b982ee8b664dc305895eacb16ac62d012c397240",
+      "SourceFilePath": "e2e\\7827cd75-5671-4ec7-a4ad-afa48cad22e8.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "e2e\\7827cd75-5671-4ec7-a4ad-afa48cad22e8.md"
+      ],
+      "HasMetadata": false,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yuwzho\\ht\\7827cd75-5671-4ec7-a4ad-afa48cad22e8.218827cf8a17b11536fe4f5ed2533fd27b1f7cac.zh-cn.xlf",
+      "HandoffFileCommit": "8542b7d20b600904394441d54da2bf97ce9b2dd6",
+      "HandoffDateTime": "2016-09-09T12:24:33.1952199Z",
+      "HandoffPriority": "ht",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
