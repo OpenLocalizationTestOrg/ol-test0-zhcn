@@ -100,6 +100,9 @@
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [e2e\b9c3f894-3176-450f-8722-bfc3542103f1.md](https://github.com/OpenLocalizationTestOrg/ol-test0-zhcn/blob/91456888335e6e2b332c3390eda343a37bccca00/e2e/b9c3f894-3176-450f-8722-bfc3542103f1.md)
+* Current Handback File: [b9c3f894-3176-450f-8722-bfc3542103f1.1e631cce7ca04488310d940e05c9608eb9cc7f5b.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/3d0d72c2cc779b88a1e5a974149abe2c5afa2dfc/ol-handback/OpenLocalizationTestOrg/ol-test0-zhcn/yuwzho/ht/b9c3f894-3176-450f-8722-bfc3542103f1.1e631cce7ca04488310d940e05c9608eb9cc7f5b.zh-cn.xlf)
+* Current Handback Datetime: 2016-09-09 10:03:14
 * [Back to Top](#report-top)
 
 ##### <a name='b6765a81100c3c4e9195eea457ee1b674d5f1de05'></a> Source: [e2e\c1927f57-4b9f-42ad-a691-77ccbb78dacd.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/047fc7fbb59bcf86664297127a68ef2679d3b60c/e2e/c1927f57-4b9f-42ad-a691-77ccbb78dacd.md)
