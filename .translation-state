@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "938d614534005d03e276cf1ec8d72c50ff8e5541",
-  "LastTranslatedCommit": "31c2c7211f93885769f19ca7c7035887c5bc7a4e",
+  "LastTranslatedCommit": "63a03273da07f9ded0d38621cdb88f680f2ee815",
   "Items": {
     "d2e060e3505f54f39fe05acbf4c9c200a6088aec": {
       "FileHash": "d2e060e3505f54f39fe05acbf4c9c200a6088aec",
@@ -10835,9 +10835,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-09-09T12:41:00.2668231Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: qtibu2ux.xmh is different with handoff file name: 37d3bf1a-24db-4978-81e0-5734adabaaa2.6cb22e404def2865d2ceefff17308b264bc5b26f.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: qtibu2ux.xmh is different with handoff file name: 37d3bf1a-24db-4978-81e0-5734adabaaa2.6cb22e404def2865d2ceefff17308b264bc5b26f.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
