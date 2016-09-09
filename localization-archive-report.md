@@ -6,19 +6,22 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\2b11d8f3-8186-4e95-8650-50f0457d8874.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/ae7fd67bb885efae37f74d1f4dd3f570eb865b58/e2e/2b11d8f3-8186-4e95-8650-50f0457d8874.md) | ArchivedSuccess | [Details](#820fff0b108fa618eba80c59b2d803d2dddcb2843)
+ [e2e\b.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/9fc0e8244dedc0909f53c9723f2270f7fff0726a/e2e/b.md) | ArchivedSuccess | [Details](#95a9db4b51e34e7154ee039af5c15d14af066bc62)
 
 ## Item Details
-##### <a name='820fff0b108fa618eba80c59b2d803d2dddcb2843'></a> Source: [e2e\2b11d8f3-8186-4e95-8650-50f0457d8874.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/ae7fd67bb885efae37f74d1f4dd3f570eb865b58/e2e/2b11d8f3-8186-4e95-8650-50f0457d8874.md)
+##### <a name='95a9db4b51e34e7154ee039af5c15d14af066bc62'></a> Source: [e2e\b.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/9fc0e8244dedc0909f53c9723f2270f7fff0726a/e2e/b.md)
 * Status: ArchivedSuccess
 * Target File: 
-* Handoff File: [2b11d8f3-8186-4e95-8650-50f0457d8874.7e7a0951c8df90cb326e64cdd9d93d55a05f78ab.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/5415b3bd3011eaac4752a26d53f62a9d56e078cb/ol-handoff/OpenLocalizationTestOrg/ol-test0-zhcn/yuwzho/ht/2b11d8f3-8186-4e95-8650-50f0457d8874.7e7a0951c8df90cb326e64cdd9d93d55a05f78ab.zh-cn.xlf)
-* Handoff Datetime: 2016-09-09 12:06:38
+* Handoff File: [b.63290e5768f688058c7b37413b0a5c26c308f864.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/f439e781147c686f18c33d2edae01c5e93d41f0b/ol-handoff/OpenLocalizationTestOrg/ol-test0-zhcn/yuwzho/ht/b.63290e5768f688058c7b37413b0a5c26c308f864.zh-cn.xlf)
+* Handoff Datetime: 2016-09-09 12:15:00
 * Handoff Reason: Include
-* Archive File: [2b11d8f3-8186-4e95-8650-50f0457d8874.7e7a0951c8df90cb326e64cdd9d93d55a05f78ab.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/0fb3316bce6f202ff6ddf2e4a2afe9656263af1f/ol-archive/OpenLocalizationTestOrg/ol-test0-zhcn/yuwzho/ht/2b11d8f3-8186-4e95-8650-50f0457d8874.7e7a0951c8df90cb326e64cdd9d93d55a05f78ab.zh-cn.xlf)
-* Archive Datetime: 2016-09-09 12:07:26
+* Archive File: [b.63290e5768f688058c7b37413b0a5c26c308f864.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/c802d42149af4b90eae3b372404131b40e555bdf/ol-archive/OpenLocalizationTestOrg/ol-test0-zhcn/yuwzho/ht/b.63290e5768f688058c7b37413b0a5c26c308f864.zh-cn.xlf)
+* Archive Datetime: 2016-09-09 12:15:58
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [e2e\a.md](https://github.com/OpenLocalizationTestOrg/ol-test0-zhcn/blob/968dcb7dae64e88dbdcc84a42e974234989395ae/e2e/a.md)
+* Current Handback File: [a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/cd5c8e542f94526bfa31c28b9c1f60d767e540fb/ol-handback/OpenLocalizationTestOrg/ol-test0-zhcn/yuwzho/ht/a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.zh-cn.xlf)
+* Current Handback Datetime: 2016-09-09 12:14:09
 * [Back to Top](#report-top)
 
 
