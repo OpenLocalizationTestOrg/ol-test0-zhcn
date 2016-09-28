@@ -1,0 +1,14 @@
+{
+  "Table": {
+    "e2e\\a.md.f02dcb40605ada7dc6b4bb3c5090360f9134c487.HT": {
+      "SourceFilename": "e2e\\a.md",
+      "XliffHash": "f02dcb40605ada7dc6b4bb3c5090360f9134c487",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\4e310838e5fac700dab94ecb22cefa45da6d3a7e.c500382f3a577187456a1f4ad577ac1651df6c1a.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    }
+  }
+}
