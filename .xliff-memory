@@ -1,0 +1,14 @@
+{
+  "Table": {
+    "e2e\\a.md.ff90f09babeec3de2a12fc1e19b409cb42ba5549.HT": {
+      "SourceFilename": "e2e\\a.md",
+      "XliffHash": "ff90f09babeec3de2a12fc1e19b409cb42ba5549",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\qimu\\20afd9f87a87ee31685eb2ee4f3abece7f27d1ea.d04b4fb1242b9efdfa1f83d83a8b390010b782ca.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    }
+  }
+}
