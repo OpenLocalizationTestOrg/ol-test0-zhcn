@@ -24,8 +24,8 @@
       "SourceFilename": "e2e\\b.md",
       "XliffHash": "95d9831aae73342fd8c634289b05e43954ac299d",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "IsArchived": true,
+      "ArchivedDateTime": "2016-09-28T07:00:39.036241Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\qimu\\f44dcbb36b172e2c9041d78d67fc14ad21e38852.9a5989ae9b8806f8af1d9d3f35f26418f753fbca.xml",
       "LocXliff": null,
       "LocXliffCommit": null
