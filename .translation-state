@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "889435f84ce36066329fa101dbec88d056ac40ca",
-  "LastTranslatedCommit": "4b0d774d745a1e7dc0edd6fc153166874c6ddc0e",
+  "LastTranslatedCommit": "118f1f04ec56a22a7a283228ba707d14e2c540c8",
   "Items": {
     "20afd9f87a87ee31685eb2ee4f3abece7f27d1ea": {
       "FileHash": "20afd9f87a87ee31685eb2ee4f3abece7f27d1ea",
@@ -287,9 +287,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-10-09T08:28:34.4192898Z",
+      "HandbackException": {
+        "internal_error_code": "lower_handback_version",
+        "internal_error_message": "The handback version of file with file hash 2e769d2766f9f27b7f6478a5ccd03f2dcd4358fb is lower than latest handed back file.",
+        "internal_error_retriable": false,
+        "exception_message": "The handback version of file with file hash 2e769d2766f9f27b7f6478a5ccd03f2dcd4358fb is lower than latest handed back file.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
