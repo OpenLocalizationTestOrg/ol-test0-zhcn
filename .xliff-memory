@@ -577,8 +577,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\qimu\\9ee0d24bad14500f073fa123ccfde1fa709ac2af.6ea5f2b8cad2f9c4f8a1e7e3f8583d1dd478be42.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\qimu\\ht\\e090e645-09b3-4542-97c9-c769b01b38fb.22712eecc61c5fc8df56fcf01097a08c1630d156.zh-cn.xlf",
+      "LocXliffCommit": "a39c8a17617a4fe30cf829900b3222895f19f047"
     }
   }
 }
