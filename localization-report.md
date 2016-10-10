@@ -5,10 +5,10 @@
  -------- | ----- 
  Total Files | 2
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 0
+[ Handoff Success Files ](#handoff-success-list)| 1
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
-[ Handback Failed Files ](#handback-failed-list)| 1
+[ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 0
 [ Ignored Files ](#ignored-list)| 1
@@ -16,15 +16,15 @@
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
 ## <a name='handoff-success-list'></a> Handoff Success File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [e2e\8bcaab1d-fa21-4c83-a12f-0966cbf71a0d.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/1c54bcc21810999aca52316d7b054ea2480ddb61/e2e/8bcaab1d-fa21-4c83-a12f-0966cbf71a0d.md) | HandedOffSuccess | [Details](#69c90038e2dc26826efd038489eae963144c6cd91)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
 
 ## <a name='archive-success-list'></a> Archive Success File List
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [e2e\701ff851-b467-4ea7-9d00-7b659ee80e74.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/cf16878dd4843e6379ad585ed4bf41e5b385af4c/e2e/701ff851-b467-4ea7-9d00-7b659ee80e74.md) | HandedBackFailed | [Details](#0e233e4f7d474536a375e455f250d98d2186f45a1)
 
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
 
@@ -33,10 +33,10 @@
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.localization-config](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/cf16878dd4843e6379ad585ed4bf41e5b385af4c/.localization-config) | Ignored | [Details](#c268a05ecaa7ec85942ed632c29928ee5bd6da8d0)
+ [.localization-config](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/1c54bcc21810999aca52316d7b054ea2480ddb61/.localization-config) | Ignored | [Details](#c268a05ecaa7ec85942ed632c29928ee5bd6da8d0)
 
 ## Item Details
-##### <a name='c268a05ecaa7ec85942ed632c29928ee5bd6da8d0'></a> Source: [.localization-config](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/cf16878dd4843e6379ad585ed4bf41e5b385af4c/.localization-config)
+##### <a name='c268a05ecaa7ec85942ed632c29928ee5bd6da8d0'></a> Source: [.localization-config](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/1c54bcc21810999aca52316d7b054ea2480ddb61/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -48,26 +48,19 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='0e233e4f7d474536a375e455f250d98d2186f45a1'></a> Source: [e2e\701ff851-b467-4ea7-9d00-7b659ee80e74.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/cf16878dd4843e6379ad585ed4bf41e5b385af4c/e2e/701ff851-b467-4ea7-9d00-7b659ee80e74.md)
-* Status: HandedBackFailed
+##### <a name='69c90038e2dc26826efd038489eae963144c6cd91'></a> Source: [e2e\8bcaab1d-fa21-4c83-a12f-0966cbf71a0d.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/1c54bcc21810999aca52316d7b054ea2480ddb61/e2e/8bcaab1d-fa21-4c83-a12f-0966cbf71a0d.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [701ff851-b467-4ea7-9d00-7b659ee80e74.a7439a7099963fc5ef61a5287be88659148def37.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/aa1b99d53bcbcafcf824b2d6bcb0a684ba117f8a/ol-handoff/OpenLocalizationTestOrg/ol-test0-zhcn/qimu/ht/701ff851-b467-4ea7-9d00-7b659ee80e74.a7439a7099963fc5ef61a5287be88659148def37.zh-cn.xlf)
-* Handoff Datetime: 2016-10-10 05:31:33
+* Handoff File: [8bcaab1d-fa21-4c83-a12f-0966cbf71a0d.3c2c869cefc0442110cea0ce13b4193c20802b41.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/b507c47adcfcf2070f53aa27714e501c1c6ec87e/ol-handoff/OpenLocalizationTestOrg/ol-test0-zhcn/qimu/ht/8bcaab1d-fa21-4c83-a12f-0966cbf71a0d.3c2c869cefc0442110cea0ce13b4193c20802b41.zh-cn.xlf)
+* Handoff Datetime: 2016-10-10 05:59:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
-* Handback Datetime: 2016-10-10 05:48:45
-* Handback Error: [handback_file_rejected](#0e233e4f7d474536a375e455f250d98d2186f45a1handback_file_rejected)
+* Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 
 ## Error Details
-##### <a name='0e233e4f7d474536a375e455f250d98d2186f45a1handback_file_rejected'></a> Source: [e2e\701ff851-b467-4ea7-9d00-7b659ee80e74.md](#0e233e4f7d474536a375e455f250d98d2186f45a1)
-* Error Code: handback_file_rejected
-* Error Message: file 701ff851-b467-4ea7-9d00-7b659ee80e74.a7439a7099963fc5ef61a5287be88659148def37.zh-cn.xlf not found in source repo
-* Retriable: False
-* Error Details: {"internal_error_code":"handback_file_rejected","internal_error_message":"file 701ff851-b467-4ea7-9d00-7b659ee80e74.a7439a7099963fc5ef61a5287be88659148def37.zh-cn.xlf not found in source repo","internal_error_retriable":false,"exception_message":"file 701ff851-b467-4ea7-9d00-7b659ee80e74.a7439a7099963fc5ef61a5287be88659148def37.zh-cn.xlf not found in source repo","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
-
 
 Generated by OpenLocalization.
