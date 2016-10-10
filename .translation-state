@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "d5f4899e6b1502c98cdd1ca4d2f87b6f5ad56a01",
-  "LastTranslatedCommit": "e33193549c081b1b1abfb0aa0c6f0f5f5a581a9d",
+  "LastTranslatedCommit": "5fd37b9a8871f03759833f5bc233b78e5d00439f",
   "Items": {
     "20afd9f87a87ee31685eb2ee4f3abece7f27d1ea": {
       "FileHash": "20afd9f87a87ee31685eb2ee4f3abece7f27d1ea",
@@ -365,9 +365,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-10-10T02:06:58.3225857Z",
+      "HandbackException": {
+        "internal_error_code": "handback_file_rejected",
+        "internal_error_message": "The handback version of C:\\gittest\\OpenLocalizationTestOrg\\ol-test0-handback\\989c9d\\ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\qimu\\ht\\c4e3dbbf-4c88-499e-8276-e007cdfb246b.21090b282661b99bb05a84f8b015f65b88676226.zh-cn.xlf with file hash 7b0c6ddd67528d0892620b23f3792d90b0052ee6 is lower than latest handed back file.",
+        "internal_error_retriable": false,
+        "exception_message": "The handback version of C:\\gittest\\OpenLocalizationTestOrg\\ol-test0-handback\\989c9d\\ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\qimu\\ht\\c4e3dbbf-4c88-499e-8276-e007cdfb246b.21090b282661b99bb05a84f8b015f65b88676226.zh-cn.xlf with file hash 7b0c6ddd67528d0892620b23f3792d90b0052ee6 is lower than latest handed back file.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
