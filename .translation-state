@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "27116aeecfb44aaf45be5f67e54dc523e3cee094",
-  "LastTranslatedCommit": "64e3b90cb3b52a77e098d71efa2e7a1237d00303",
+  "LastTranslatedCommit": "61a3c1ce6abf66900371670bd3aaf8e402f73726",
   "Items": {
     "20afd9f87a87ee31685eb2ee4f3abece7f27d1ea": {
       "FileHash": "20afd9f87a87ee31685eb2ee4f3abece7f27d1ea",
@@ -790,9 +790,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-10-10T05:17:14.7233462Z",
+      "HandbackException": {
+        "internal_error_code": "translation_state_item_not_found",
+        "internal_error_message": "The translationStateItem 980dd4e7afbfe618b50c9f45743d5bb988b4b0b3 is not found.",
+        "internal_error_retriable": false,
+        "exception_message": "The translationStateItem 980dd4e7afbfe618b50c9f45743d5bb988b4b0b3 is not found.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
