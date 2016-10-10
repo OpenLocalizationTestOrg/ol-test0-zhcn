@@ -384,8 +384,8 @@
       "SourceFilename": "e2e\\fa55ea4e-ab78-44f7-b5c8-fca626e6eecc.md",
       "XliffHash": "6b1b25c275228984e3c1fb331c3bc8e4971dbc66",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "IsArchived": true,
+      "ArchivedDateTime": "2016-10-10T09:26:15.9023271Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\qimu\\7cadef752d3849cca7ed08d0047c54ff858be3b9.175d35dbabfc73515884fc6416ea2a124938b3a2.xml",
       "LocXliff": null,
       "LocXliffCommit": null
