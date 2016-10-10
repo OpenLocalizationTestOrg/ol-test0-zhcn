@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "cf16878dd4843e6379ad585ed4bf41e5b385af4c",
-  "LastTranslatedCommit": "e43feb85a6c5ffc8dab0475392707a1fce1bc3fe",
+  "LastTranslatedCommit": "64dda11b99d35cf3a23a90e04918f602b107f12c",
   "Items": {
     "20afd9f87a87ee31685eb2ee4f3abece7f27d1ea": {
       "FileHash": "20afd9f87a87ee31685eb2ee4f3abece7f27d1ea",
@@ -946,9 +946,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-10-10T05:48:45.7360317Z",
+      "HandbackException": {
+        "internal_error_code": "handback_file_rejected",
+        "internal_error_message": "file 701ff851-b467-4ea7-9d00-7b659ee80e74.a7439a7099963fc5ef61a5287be88659148def37.zh-cn.xlf not found in source repo",
+        "internal_error_retriable": false,
+        "exception_message": "file 701ff851-b467-4ea7-9d00-7b659ee80e74.a7439a7099963fc5ef61a5287be88659148def37.zh-cn.xlf not found in source repo",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
