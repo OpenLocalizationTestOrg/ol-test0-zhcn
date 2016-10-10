@@ -664,8 +664,8 @@
       "SourceFilename": "e2e\\85182d13-9b57-4405-92c1-fdf80e0f63e5.md",
       "XliffHash": "bc7e9299a65ed7e1f7d1563a81823ad88feb9449",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "IsArchived": true,
+      "ArchivedDateTime": "2016-10-10T09:57:49.001019Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\qimu\\04648dddf2947cb93f5c4542e2cff508938a39d3.f37dfeca7a05e69e9f73945a580e625c80b39561.xml",
       "LocXliff": null,
       "LocXliffCommit": null
@@ -674,8 +674,8 @@
       "SourceFilename": "e2e\\58e54fcd-dce7-4aa9-81dc-67df68fd93e7.md",
       "XliffHash": "33274dccb505492ceffdc47b0f206a6fcbaa201c",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "IsArchived": true,
+      "ArchivedDateTime": "2016-10-10T09:57:49.001019Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\qimu\\4918ebea480de9afc60f35d7c122f02da063ae07.1ef183a74973e5c98fc6bc440d4ab9c1e8c03108.xml",
       "LocXliff": null,
       "LocXliffCommit": null
@@ -684,8 +684,8 @@
       "SourceFilename": "e2e\\8e2431e8-421e-43ec-8103-84c41ca0d7e4.md",
       "XliffHash": "7f132a96ef168848440cf184e3c267a204b585a8",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "IsArchived": true,
+      "ArchivedDateTime": "2016-10-10T09:57:49.001019Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\qimu\\7e778aacd90d65edae78e9cd673158c4e5a71d78.1fbf34d94239c764ea675d6c83cfef23c34f82a0.xml",
       "LocXliff": null,
       "LocXliffCommit": null
@@ -694,8 +694,8 @@
       "SourceFilename": "e2e\\385abfaf-42b1-4d73-a91a-1409782e68e5.md",
       "XliffHash": "6592418710721d8ca9bab73950c8f0e1624f23ee",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "IsArchived": true,
+      "ArchivedDateTime": "2016-10-10T09:57:49.000018Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\qimu\\a4c56cbe30191b6a2d1503080ab1bdfcf8652809.18aed70b61c2509c308af5f5983ac9a3356aea79.xml",
       "LocXliff": null,
       "LocXliffCommit": null
