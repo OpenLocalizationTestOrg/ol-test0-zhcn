@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "e51cfe361dd49d75c805a2b250adba4c480d6420",
-  "LastTranslatedCommit": "52eadd9adaea3d6c2e5dbe36d72f45c278b02a33",
+  "LastTranslatedCommit": "23c0928ed973a612c518eacb6bd5cabd11fff06b",
   "Items": {
     "20afd9f87a87ee31685eb2ee4f3abece7f27d1ea": {
       "FileHash": "20afd9f87a87ee31685eb2ee4f3abece7f27d1ea",
@@ -2134,9 +2134,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-10-10T09:48:48.1399546Z",
+      "HandbackException": {
+        "internal_error_code": "handback_file_rejected",
+        "internal_error_message": "Targeting source file commit 93c3a8757197b293d3d95fc3b5b3d70c6cc0a0bd is lower than latest handed back source file commit e51cfe361dd49d75c805a2b250adba4c480d6420",
+        "internal_error_retriable": false,
+        "exception_message": "Targeting source file commit 93c3a8757197b293d3d95fc3b5b3d70c6cc0a0bd is lower than latest handed back source file commit e51cfe361dd49d75c805a2b250adba4c480d6420",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
