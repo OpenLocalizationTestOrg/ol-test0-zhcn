@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "e26b062c424e11f4aecaf381cfb022c59de2e630",
-  "LastTranslatedCommit": "495a6e3649156e18c82fdc5e144415918a13c132",
+  "LastTranslatedCommit": "6aeccc009ec8e7eea49075eb31a955808e4d0fbf",
   "Items": {
     "20afd9f87a87ee31685eb2ee4f3abece7f27d1ea": {
       "FileHash": "20afd9f87a87ee31685eb2ee4f3abece7f27d1ea",
@@ -1215,9 +1215,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-10-10T07:49:23.7083228Z",
+      "HandbackException": {
+        "internal_error_code": "handback_transform_failed",
+        "internal_error_message": "Handback file: C:\\gittest\\OpenLocalizationTestOrg\\ol-test0-handback\\989c9d\\ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\qimu\\ht\\edc538f4-45ab-4d48-a06d-db2a608d1a89.b8a770874777c76c4b5256ee553453b2fe30b1f1.zh-cn.xlf failed.",
+        "internal_error_retriable": false,
+        "exception_message": "The given key was not present in the dictionary.",
+        "exception_type": "System.Collections.Generic.KeyNotFoundException",
+        "stack_trace": "   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.ValidateHandbackFile(TranslationState translationState, IEnumerable`1 translationFiles, Dictionary`2 filePathInfo, String fileHash, String filePath, String handbackDir) in D:\\Workspace\\OpenLocalization\\OpenLocalization\\src\\OpenLocalization\\Localization\\HandbackCore.cs:line 225\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass7_0.<GetHandbackFiles>b__1(String file) in D:\\Workspace\\OpenLocalization\\OpenLocalization\\src\\OpenLocalization\\Localization\\HandbackCore.cs:line 443",
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
