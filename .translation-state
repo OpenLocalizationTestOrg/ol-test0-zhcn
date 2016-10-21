@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "12c881a5f1a3f7c5401a4095f8a158dece3b71b5",
-  "LastTranslatedCommit": "c9797a15890e857f835a1b6184d0733438d9afc7",
+  "LastTranslatedCommit": "e45ec115d09fb0110dd5173a23123096c6c94260",
   "LastTansformerVersion": "1.0-c5d768e",
   "Items": {
     "4e310838e5fac700dab94ecb22cefa45da6d3a7e": {
@@ -2211,9 +2211,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-10-21T10:48:35.7835987Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: knzei3ih.tve is different with handoff file name: 4b21078b-f9a4-483d-b1fa-476adfbd30a8.409efda6c8d8d4273be4de08b34c51f5ede0eb15.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: knzei3ih.tve is different with handoff file name: 4b21078b-f9a4-483d-b1fa-476adfbd30a8.409efda6c8d8d4273be4de08b34c51f5ede0eb15.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
