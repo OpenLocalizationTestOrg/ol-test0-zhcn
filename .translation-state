@@ -9089,9 +9089,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\ht\\1c27dc0d-d566-4a98-9282-ca0bc4ab693f.e611a69770780078c6f10f933ff48f60a78422b5.zh-cn.xlf",
+      "BilingualFileCommit": "8a2c0c20f9deb8fc545fd31a0fd1ff4db910b691",
+      "BilingualDateTime": "2016-10-25T21:53:09.2678223Z",
       "BilingualException": null
     },
     "34cc9403772f78bd67f73be501385363b87f4823": {
@@ -9125,9 +9125,9 @@
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\ht\\50353d83-b14e-4114-af1d-c0917ff72282.0fe0074fd0227736349e19db30c677836851a6ab.zh-cn.xlf",
+      "BilingualFileCommit": "8a2c0c20f9deb8fc545fd31a0fd1ff4db910b691",
+      "BilingualDateTime": "2016-10-25T21:53:09.2678223Z",
       "BilingualException": null
     },
     "56d005ce493767448e69ef274ee137fddfc36e5e": {
