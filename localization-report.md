@@ -41,10 +41,10 @@
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.localization-config](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/394505f143fbfc0d682b7cfe194b7d1bb40b4af7/.localization-config) | Ignored | [Details](#c268a05ecaa7ec85942ed632c29928ee5bd6da8d0)
+ [.localization-config](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/394505f143fbfc0d682b7cfe194b7d1bb40b4af7/.localization-config) | Ignored | [Details](#8afb43a379cf809dced366613358e9d98401e6140)
 
 ## Item Details
-##### <a name='c268a05ecaa7ec85942ed632c29928ee5bd6da8d0'></a> Source: [.localization-config](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/394505f143fbfc0d682b7cfe194b7d1bb40b4af7/.localization-config)
+##### <a name='8afb43a379cf809dced366613358e9d98401e6140'></a> Source: [.localization-config](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/394505f143fbfc0d682b7cfe194b7d1bb40b4af7/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
