@@ -35,16 +35,16 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [e2e\file_no_deleted_multi_path_1.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/182e767794317d2650e827d77345f6201f939697/e2e/file_no_deleted_multi_path_1.md) | InSyncHandedBackSuccess | [Details](#c507e3fdc95e21da6b0bda3ddc7b6a0c7a55f62a1)
- [e2e\file_no_deleted_multi_path_2.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/394505f143fbfc0d682b7cfe194b7d1bb40b4af7/e2e/file_no_deleted_multi_path_2.md) | InSyncHandedBackSuccess | [Details](#c507e3fdc95e21da6b0bda3ddc7b6a0c7a55f62a2)
+ [e2e\file_no_deleted_multi_path_2.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/b19f0190b0d8196c7688012c47af0729a270806e/e2e/file_no_deleted_multi_path_2.md) | InSyncHandedBackSuccess | [Details](#c507e3fdc95e21da6b0bda3ddc7b6a0c7a55f62a2)
  [e2e\file_partial_deleted_multi_path_1.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/182e767794317d2650e827d77345f6201f939697/e2e/file_partial_deleted_multi_path_1.md) | InSyncHandedBackSuccess | [Details](#9a46f86c9c07fb0f4844e758fee8e31651cd6e2b4)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.localization-config](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/394505f143fbfc0d682b7cfe194b7d1bb40b4af7/.localization-config) | Ignored | [Details](#8afb43a379cf809dced366613358e9d98401e6140)
+ [.localization-config](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/b19f0190b0d8196c7688012c47af0729a270806e/.localization-config) | Ignored | [Details](#8afb43a379cf809dced366613358e9d98401e6140)
 
 ## Item Details
-##### <a name='8afb43a379cf809dced366613358e9d98401e6140'></a> Source: [.localization-config](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/394505f143fbfc0d682b7cfe194b7d1bb40b4af7/.localization-config)
+##### <a name='8afb43a379cf809dced366613358e9d98401e6140'></a> Source: [.localization-config](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/b19f0190b0d8196c7688012c47af0729a270806e/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -68,7 +68,7 @@
 * Handback Datetime: 2016-10-25 09:12:25
 * [Back to Top](#report-top)
 
-##### <a name='c507e3fdc95e21da6b0bda3ddc7b6a0c7a55f62a2'></a> Source: [e2e\file_no_deleted_multi_path_2.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/394505f143fbfc0d682b7cfe194b7d1bb40b4af7/e2e/file_no_deleted_multi_path_2.md)
+##### <a name='c507e3fdc95e21da6b0bda3ddc7b6a0c7a55f62a2'></a> Source: [e2e\file_no_deleted_multi_path_2.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/b19f0190b0d8196c7688012c47af0729a270806e/e2e/file_no_deleted_multi_path_2.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [e2e\file_no_deleted_multi_path_1.md](https://github.com/OpenLocalizationTestOrg/ol-test0-zhcn/blob/8fcea938ed17f09339d04b1b257c6a016c850b49/e2e/file_no_deleted_multi_path_1.md)
 * Handoff File: [file_no_deleted_multi_path_1.2336e4b28de82563dc9ea89a1eb254ab730456de.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/85ff8b83b59cf62e14d2b32f70aecb0df5cee65a/ol-handoff/OpenLocalizationTestOrg/ol-test0-zhcn/shujia/ht/file_no_deleted_multi_path_1.2336e4b28de82563dc9ea89a1eb254ab730456de.zh-cn.xlf)

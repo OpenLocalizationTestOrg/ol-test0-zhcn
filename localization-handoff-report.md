@@ -1,39 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 2
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [e2e\fileA.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/c9ea56dc204de896d7f20730808ded27f6596cdf/e2e/fileA.md) | HandedOffSuccess | [Details](#b59865c49334c6ef6b363deddd8cc43a1ff7e9945)
- [e2e\FileB.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/394505f143fbfc0d682b7cfe194b7d1bb40b4af7/e2e/FileB.md) | HandedOffSuccess | [Details](#2c62874ffb830a8647f199c29e01acf58e27841f6)
 
 ## Item Details
-##### <a name='b59865c49334c6ef6b363deddd8cc43a1ff7e9945'></a> Source: [e2e\fileA.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/c9ea56dc204de896d7f20730808ded27f6596cdf/e2e/fileA.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [fileA.135d472e822a8784f45e243659be3b5c5a3bfd1c.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/29e22f8abf7e1ab558cf944833b7e65d83b564e9/ol-handoff/OpenLocalizationTestOrg/ol-test0-zhcn/shujia/ht/fileA.135d472e822a8784f45e243659be3b5c5a3bfd1c.zh-cn.xlf)
-* Handoff Datetime: 2016-10-25 09:15:24
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
-##### <a name='2c62874ffb830a8647f199c29e01acf58e27841f6'></a> Source: [e2e\FileB.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/394505f143fbfc0d682b7cfe194b7d1bb40b4af7/e2e/FileB.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [FileB.c88fde0810d1f42b3df99a8fdb8c61784267dea6.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/29e22f8abf7e1ab558cf944833b7e65d83b564e9/ol-handoff/OpenLocalizationTestOrg/ol-test0-zhcn/shujia/ht/FileB.c88fde0810d1f42b3df99a8fdb8c61784267dea6.zh-cn.xlf)
-* Handoff Datetime: 2016-10-25 09:15:24
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
