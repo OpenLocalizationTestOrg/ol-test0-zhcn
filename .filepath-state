@@ -1,4 +1,8 @@
 {
+  "11a2ccc769de124971e6e0df58049e3775b7633c": [
+    "e2e\\file_full_deleted_multi_path_1.md",
+    "e2e\\file_full_deleted_multi_path_2.md"
+  ],
   "8ef72dda5a981687cf2fed0330ff26aba4c9df55": [
     "e2e\\file_full_deleted_multi_path_1.md",
     "e2e\\file_full_deleted_multi_path_2.md"
@@ -35,6 +39,9 @@
     "e2e\\file_full_deleted_multi_path_1.md",
     "e2e\\file_full_deleted_multi_path_2.md"
   ],
+  "8f40237a296a5d71e59646de7d25ad92c1672338": [
+    "e2e\\file_full_deleted_single_path.md"
+  ],
   "c808e558f8bc504a5f009f74ed4b9d899034cce7": [
     "e2e\\file_full_deleted_single_path.md"
   ],
@@ -61,6 +68,10 @@
   ],
   "f5ad7cc35726f85cd5caafd9498ff29a80115a4b": [
     "e2e\\file_full_deleted_single_path.md"
+  ],
+  "9233fc279174b4067d302c5ee84d275cdfe5a62c": [
+    "e2e\\file_no_deleted_multi_path_1.md",
+    "e2e\\file_no_deleted_multi_path_2.md"
   ],
   "614568e07549c3b950edbe36ad289c625ff39bea": [
     "e2e\\file_no_deleted_multi_path_1.md",
@@ -98,6 +109,9 @@
     "e2e\\file_no_deleted_multi_path_1.md",
     "e2e\\file_no_deleted_multi_path_2.md"
   ],
+  "4cdf278d364d9ff342d0e048e59a5dd7e8c0d3f7": [
+    "e2e\\file_no_deleted_single_path.md"
+  ],
   "330aea1ce5f9c010efa6cc5ccb32515623d8f3ba": [
     "e2e\\file_no_deleted_single_path.md"
   ],
@@ -121,6 +135,10 @@
   ],
   "0b108df433b3f282c9e8fe22381ff957419899ba": [
     "e2e\\file_no_deleted_single_path.md"
+  ],
+  "84c64f15acf466abfb846152092362a22eceb171": [
+    "e2e\\file_partial_deleted_multi_path_1.md",
+    "e2e\\file_partial_deleted_multi_path_2.md"
   ],
   "b62c4fb2e3c8f95f8ccdc34ca03d5633840d2668": [
     "e2e\\file_partial_deleted_multi_path_1.md",
