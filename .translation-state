@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "f914e1540886ab1f765fe5e3db5763320ed253c7",
-  "LastTranslatedCommit": "251b44f61a83938b3cfc422b9f5fa6c3b9b6554f",
+  "LastTranslatedCommit": "61bf952806f92ba386254e4dba0b87d5115df232",
   "LastTansformerVersion": null,
   "Items": {
     "4e310838e5fac700dab94ecb22cefa45da6d3a7e": {
@@ -7979,9 +7979,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-10-25T21:15:24.2273524Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: 2d4pv151.d4j is different with handoff file name: 0af636f3-05fc-4a60-8af3-c48e8cc79074.11a01451acb17111c6de59640ce4c3a77809bb19.zh-cn.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: 2d4pv151.d4j is different with handoff file name: 0af636f3-05fc-4a60-8af3-c48e8cc79074.11a01451acb17111c6de59640ce4c3a77809bb19.zh-cn.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
