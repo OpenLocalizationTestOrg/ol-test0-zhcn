@@ -1,11 +1,26 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [e2e\2c973682-1192-44d7-979a-1a61ff72d64b.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/b18808742306e341533a456bc56d203398b12fae/e2e/2c973682-1192-44d7-979a-1a61ff72d64b.md) | HandedOffSuccess | [Details](#f48f44b4b1655f0e0cd69e962c6910e8148cda4f1)
 
 ## Item Details
+##### <a name='f48f44b4b1655f0e0cd69e962c6910e8148cda4f1'></a> Source: [e2e\2c973682-1192-44d7-979a-1a61ff72d64b.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/b18808742306e341533a456bc56d203398b12fae/e2e/2c973682-1192-44d7-979a-1a61ff72d64b.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [2c973682-1192-44d7-979a-1a61ff72d64b.27d8b7c16126c70d38f41e97eec6b7cd2f188ea8.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/23389ed933950224add419266eb4d614a2e27fc4/ol-handoff/OpenLocalizationTestOrg/ol-test0-zhcn/shujia/ht/2c973682-1192-44d7-979a-1a61ff72d64b.27d8b7c16126c70d38f41e97eec6b7cd2f188ea8.zh-cn.xlf)
+* Handoff Datetime: 2016-10-26 03:21:58
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
