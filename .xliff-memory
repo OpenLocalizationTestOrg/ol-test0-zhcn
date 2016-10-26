@@ -3877,8 +3877,8 @@
       "IsArchived": true,
       "ArchivedDateTime": "2016-10-26T04:25:51.9929978Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\dd2a1d4360a3bddf69fe059fbc06b90d73f1d146.b8f8d12cd586354a448eef163f20c269ce6c4d48.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\ht\\6c0e46e0-bc87-413d-a898-e2a4e36f3c51.a4a24f2df1921aaa756bfd8385c4a70e91d99792.zh-cn.xlf",
+      "LocXliffCommit": "e7f3ba11785b8a7038e2648c4ee7d97280f11e04"
     },
     "e2e\\ed65de3a-58cf-4cd2-8f9a-baceefb8e77f.yml.9171e112db15eec28809fa7bfb6c3d0428aff5dd.HT": {
       "SourceFilename": "e2e\\ed65de3a-58cf-4cd2-8f9a-baceefb8e77f.yml",
@@ -3887,8 +3887,8 @@
       "IsArchived": true,
       "ArchivedDateTime": "2016-10-26T04:25:51.9929978Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\5e3b40725b887954a45e84dc6519df25417b4ab2.24a080812c4554303478d0d7e48421fb0239f77a.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\ht\\ed65de3a-58cf-4cd2-8f9a-baceefb8e77f.ec4bb2e5b0b1ffee270d83b6578d8198873c2b67.zh-cn.xlf",
+      "LocXliffCommit": "e7f3ba11785b8a7038e2648c4ee7d97280f11e04"
     },
     "e2e\\55aad9e9-c12f-41fe-8d09-03a3aca85d92.md.82855859872247b0114aeb10efabb7407f3f8f68.HT": {
       "SourceFilename": "e2e\\55aad9e9-c12f-41fe-8d09-03a3aca85d92.md",
@@ -3897,8 +3897,8 @@
       "IsArchived": true,
       "ArchivedDateTime": "2016-10-26T04:25:51.9929978Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\f2a018f5d329ec3cbb2b13a7b4c4fb1aaaac1bda.c9b976bcfd2da71cff92931dc895761f27af1a23.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\ht\\55aad9e9-c12f-41fe-8d09-03a3aca85d92.b3668b6dee163e0217ce20badf505d4745e3c68e.zh-cn.xlf",
+      "LocXliffCommit": "e7f3ba11785b8a7038e2648c4ee7d97280f11e04"
     }
   }
 }
