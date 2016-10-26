@@ -4197,8 +4197,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\5bd2ba881633f09bb8d771e97b6f4e8c9f882c48.fc05d915a41287572319eb24f23f26abe76e611f.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\ht\\e8e3470e-ec89-4625-875a-188af6d3005c.f7c2d089e8cb2f008c61495e4b41fefea1de6b08.zh-cn.xlf",
+      "LocXliffCommit": "7650ceec98daec7317a27cc573255f89234abd42"
     },
     "e2e\\6be2106d-1325-4f6d-b7da-1053d0fac149.md.2fc4552c1a6b19973ceb78b878a37aa0825cc4e4.HT": {
       "SourceFilename": "e2e\\6be2106d-1325-4f6d-b7da-1053d0fac149.md",
@@ -4207,8 +4207,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\8a6c88280ffbd171735ec2fab1eccd537e0a7f05.911a71755e0373bb3f91b9426553d98591a2746c.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\ht\\6be2106d-1325-4f6d-b7da-1053d0fac149.8be750c81802e92d3c87a76c23701f7a6ebf1830.zh-cn.xlf",
+      "LocXliffCommit": "7650ceec98daec7317a27cc573255f89234abd42"
     },
     "e2e\\16b5634c-dea2-435a-97bf-3ba218bf3a1c.md.dd60ded96a3fa31c1c3b5c17250e6289b4d3c043.HT": {
       "SourceFilename": "e2e\\16b5634c-dea2-435a-97bf-3ba218bf3a1c.md",
@@ -4217,8 +4217,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\a47790daa66b88fa98d0cc62d181c9411100f4af.6d42c7837a20e677297a52f4db2f37cbed195654.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\ht\\16b5634c-dea2-435a-97bf-3ba218bf3a1c.2f328979e8a5c9d06b570524503a0826eb71032a.zh-cn.xlf",
+      "LocXliffCommit": "7650ceec98daec7317a27cc573255f89234abd42"
     }
   }
 }
