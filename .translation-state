@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "cf32f56953af258923f8744a423dff41d7ad2eb1",
-  "LastTranslatedCommit": "516bef9097ebd78d81cf5d465d5d633c702e20c7",
+  "LastTranslatedCommit": "5b7ad7830bb89b3d3170004ee998c5d66c6d7004",
   "LastTansformerVersion": null,
   "Items": {
     "4e310838e5fac700dab94ecb22cefa45da6d3a7e": {
@@ -15625,14 +15625,14 @@
       "HandoffPriority": "ht",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "5b7ad7830bb89b3d3170004ee998c5d66c6d7004",
+      "TargetFilePath": "e2e\\6cd0e517-5056-4246-9bba-3da831dc4cd5.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\ht\\6cd0e517-5056-4246-9bba-3da831dc4cd5.f48ba4024a1c0161f0ebdc2e1414ea10e084d214.zh-cn.xlf",
+      "HandbackFileCommit": "97845f959d5d81b348c79fe16b2f8d34058ebeab",
+      "HandbackDateTime": "2016-10-26T16:20:38.3493101Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "2016-10-26T16:20:38.3493101Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
