@@ -8,9 +8,9 @@
 [ Handoff Success Files ](#handoff-success-list)| 2
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 4
-[ Handback Failed Files ](#handback-failed-list)| 1
+[ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
-[ In Sync Handback Files ](#insync-handback-success-list)| 3
+[ In Sync Handback Files ](#insync-handback-success-list)| 4
 [ Ignored Files ](#ignored-list)| 1
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -32,9 +32,6 @@
  [e2e\c7e5af43-b853-4b9f-be4c-4d6e9a4cde4f.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/a1621fa148e87e4df2320dd235c20fd453d44dd6/e2e/c7e5af43-b853-4b9f-be4c-4d6e9a4cde4f.md) | ArchivedSuccess | [Details](#fafefa8a1bd27b9fe26d7e3c585b557816d01e828)
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [e2e\FileA.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/6044d016681d091ffb279c16e144814edd4a0d17/e2e/FileA.md) | HandedBackFailed | [Details](#a312c2a4687b9423a9c51c5a9b6482e40cb34d0e9)
 
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
 
@@ -43,6 +40,7 @@
  ----------- | ------ | ------- 
  [e2e\513d476f-7501-4c28-a773-ac76b2f0b19a.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/a1621fa148e87e4df2320dd235c20fd453d44dd6/e2e/513d476f-7501-4c28-a773-ac76b2f0b19a.md) | InSyncHandedBackSuccess | [Details](#c7339fa8c4adaeb0247a77aacd912f3dba97f6b76)
  [e2e\bce2234b-4e78-4d73-9f8a-6e37257a5f10.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/a1621fa148e87e4df2320dd235c20fd453d44dd6/e2e/bce2234b-4e78-4d73-9f8a-6e37257a5f10.md) | InSyncHandedBackSuccess | [Details](#4f692e05359067be3921430288d28b9fc93c41857)
+ [e2e\FileA.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/6044d016681d091ffb279c16e144814edd4a0d17/e2e/FileA.md) | InSyncHandedBackSuccess | [Details](#a312c2a4687b9423a9c51c5a9b6482e40cb34d0e9)
  [e2e\FileB.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/6edb573e89c0ee93bea0cff5ee57f6bebce66f44/e2e/FileB.md) | InSyncHandedBackSuccess | [Details](#02e9f4fd4444db2aadd4093629ea36cd1409f4ca10)
 
 ## <a name='ignored-list'></a> Ignored File List
@@ -160,16 +158,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='a312c2a4687b9423a9c51c5a9b6482e40cb34d0e9'></a> Source: [e2e\FileA.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/6044d016681d091ffb279c16e144814edd4a0d17/e2e/FileA.md)
-* Status: HandedBackFailed
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [e2e\FileA.md](https://github.com/OpenLocalizationTestOrg/ol-test0-zhcn/blob/da8f754a7adf792330de10a4b8c73cf3b1ed7f20/e2e/FileA.md)
 * Handoff File: [FileA.f6ecdaf9df7361203306d4e8bc2aec97d97d9449.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/41e6c1ba9d9a88791e9d7064cb7e59b4bb666a00/ol-handoff/OpenLocalizationTestOrg/ol-test0-zhcn/shujia/ht/FileA.f6ecdaf9df7361203306d4e8bc2aec97d97d9449.zh-cn.xlf)
 * Handoff Datetime: 2016-11-02 06:42:47
 * Handoff Reason: TransformerUpdate
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 2016-11-02 07:21:57
-* Handback Error: [handback_file_rejected](#a312c2a4687b9423a9c51c5a9b6482e40cb34d0e9handback_file_rejected)
+* Handback File: [FileA.f6ecdaf9df7361203306d4e8bc2aec97d97d9449.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/cc389b14c9246819d0f163425883a645d700c57a/ol-handback/OpenLocalizationTestOrg/ol-test0-zhcn/shujia/ht/FileA.f6ecdaf9df7361203306d4e8bc2aec97d97d9449.zh-cn.xlf)
+* Handback Datetime: 2016-11-02 07:32:27
 * [Back to Top](#report-top)
 
 ##### <a name='02e9f4fd4444db2aadd4093629ea36cd1409f4ca10'></a> Source: [e2e\FileB.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/6edb573e89c0ee93bea0cff5ee57f6bebce66f44/e2e/FileB.md)
@@ -186,11 +183,5 @@
 
 
 ## Error Details
-##### <a name='a312c2a4687b9423a9c51c5a9b6482e40cb34d0e9handback_file_rejected'></a> Source: [e2e\FileA.md](#a312c2a4687b9423a9c51c5a9b6482e40cb34d0e9)
-* Error Code: handback_file_rejected
-* Error Message: Tranformer update causes handoff xliff updated, reject this handback xliff:ht\FileA.f6ecdaf9df7361203306d4e8bc2aec97d97d9449.zh-cn.xlf
-* Retriable: False
-* Error Details: {"internal_error_code":"handback_file_rejected","internal_error_message":"Tranformer update causes handoff xliff updated, reject this handback xliff:ht\\FileA.f6ecdaf9df7361203306d4e8bc2aec97d97d9449.zh-cn.xlf","internal_error_retriable":false,"exception_message":"Tranformer update causes handoff xliff updated, reject this handback xliff:ht\\FileA.f6ecdaf9df7361203306d4e8bc2aec97d97d9449.zh-cn.xlf","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
-
 
 Generated by OpenLocalization.
