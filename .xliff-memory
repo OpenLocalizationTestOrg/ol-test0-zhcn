@@ -977,8 +977,8 @@
       "IsArchived": true,
       "ArchivedDateTime": "2016-11-02T05:48:09.1591603Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\e2cdc596f6eea8a88fd0ac18dece750c0cb4a429.a7e3ab863177fad9a9ed8773b90b3aaf6a5c1a4f.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\ht\\a3671ea2-c63a-4b18-a556-996cabb3313e.8bb1d2ce098ddf06ca2e1d8ca8a6f97c067dd605.zh-cn.xlf",
+      "LocXliffCommit": "ea524390fa195516e59e517a547c70cc3c4d207b"
     },
     "e2e\\0000119d-a964-4eda-a1e5-c43738e26215.yml.2ed29ae6309720e1a66c600e67b03b7a8ef314cd.HT": {
       "SourceFilename": "e2e\\0000119d-a964-4eda-a1e5-c43738e26215.yml",
@@ -987,8 +987,8 @@
       "IsArchived": true,
       "ArchivedDateTime": "2016-11-02T05:48:09.1587091Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\d87104745bc1083af95ed1215d6d4c4d4a0f6da5.f2d1da4ca6c4cf18190c7defd8d74c4cbff940a7.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\ht\\0000119d-a964-4eda-a1e5-c43738e26215.eaa503750b3ad913d439a5e3e6961b42423c4d31.zh-cn.xlf",
+      "LocXliffCommit": "ea524390fa195516e59e517a547c70cc3c4d207b"
     },
     "e2e\\99d96804-800c-4316-9acd-83e3e4cbfd53.md.3ac268f39daedd0b6f0c44b79d45d1820080d0c3.HT": {
       "SourceFilename": "e2e\\99d96804-800c-4316-9acd-83e3e4cbfd53.md",
@@ -997,8 +997,8 @@
       "IsArchived": true,
       "ArchivedDateTime": "2016-11-02T05:48:09.1596603Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\07f8ac86156553a4882d02a5435977acaec6fa05.2f758aa69bb131334c52c107aa04ca9b9114bb50.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\ht\\99d96804-800c-4316-9acd-83e3e4cbfd53.62e86d38c64d2b276a18fbf4f74b43c32c30c84c.zh-cn.xlf",
+      "LocXliffCommit": "ea524390fa195516e59e517a547c70cc3c4d207b"
     }
   }
 }
