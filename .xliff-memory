@@ -217,8 +217,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\13a7ab88fd3eac0998bbc7976645aa41faf4ca7f.88d21ed50170bae68776eb305dca8925e21b5be2.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\ht\\e1684adc-9350-4923-87d9-1adb840606c9.61b2fd45ee7d6adaf61be10d67b256ba36e4faef.zh-cn.xlf",
+      "LocXliffCommit": "ace2b1806669be2a1cb8f9b9366829137b7cd894"
     },
     "e2e\\4bad256f-2880-4cce-b0e1-fea91db02514.md.2d1fb550527bc92e490426f589a41da67f7d8ed6.HT": {
       "SourceFilename": "e2e\\4bad256f-2880-4cce-b0e1-fea91db02514.md",
@@ -227,8 +227,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\3bf4886c8f77260fc7cf137fd82f054a289066ce.b8dab3978f06b6f8c2b74ab7afb3b0d149faedf1.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\ht\\4bad256f-2880-4cce-b0e1-fea91db02514.0dad97eda92f227a9cb276d24ad6d0c1a1350959.zh-cn.xlf",
+      "LocXliffCommit": "ace2b1806669be2a1cb8f9b9366829137b7cd894"
     },
     "e2e\\544d23ad-c6e0-4e28-8640-c4f67bf310f5.md.b3001d893e2ec9d43f1aabb2a0ab4d56446cbff7.HT": {
       "SourceFilename": "e2e\\544d23ad-c6e0-4e28-8640-c4f67bf310f5.md",
@@ -237,8 +237,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\d7dca2e8f5c6d1c114eedd8d1c20a817cbc49c7d.2c30ec55939322bdc9fa59482e54e54f9bc193ed.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\ht\\544d23ad-c6e0-4e28-8640-c4f67bf310f5.18164ab7b05def6625e611d5d7bb4c9a82cfb16d.zh-cn.xlf",
+      "LocXliffCommit": "ace2b1806669be2a1cb8f9b9366829137b7cd894"
     }
   }
 }
