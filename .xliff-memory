@@ -157,8 +157,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\95e41ca51ed549fa8190f3b6ca243e07c3da5a17.e6564f4e12cd68300981568f81b122b93ab9fd00.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\mt\\file_partial_deleted_multi_path_1.950eb2cafff7c1eccbf1f4ff641b1cbe66aecd0c.zh-cn.xlf",
+      "LocXliffCommit": "3055b1b77d6e5e1ec44a653073be1d938aa8bd17"
     },
     "e2e\\file_no_deleted_single_path.md.d5f5ec13430813a11862f514a0c876a527b4af57.HT": {
       "SourceFilename": "e2e\\file_no_deleted_single_path.md",
@@ -167,8 +167,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\adfb9bbcfcd424f7ca652815acc008eeebc7b43d.6d7ff75d4c3058853c07910fe9c95a36ef761c03.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\mt\\file_no_deleted_single_path.84480e30a75eaa7877ca77d49d2059db6121edd7.zh-cn.xlf",
+      "LocXliffCommit": "3055b1b77d6e5e1ec44a653073be1d938aa8bd17"
     },
     "e2e\\file_full_deleted_multi_path_1.md.e09190dfb656276991ce1c032d562f2cd3529ad2.HT": {
       "SourceFilename": "e2e\\file_full_deleted_multi_path_1.md",
@@ -187,8 +187,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\ae2a2c6f1a1be0d909420cc89e3989f2a6d05d23.6444efcf33af659f99a2290949ef9e4330fa5c62.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\mt\\file_no_deleted_multi_path_1.2336e4b28de82563dc9ea89a1eb254ab730456de.zh-cn.xlf",
+      "LocXliffCommit": "3055b1b77d6e5e1ec44a653073be1d938aa8bd17"
     },
     "e2e\\newfile.77e153cc-db46-4e3c-8a9a-5ec5fd323643.md.b20fa1a8c7071d5c058308a8bce16ab8c2dfd0bf.HT": {
       "SourceFilename": "e2e\\newfile.77e153cc-db46-4e3c-8a9a-5ec5fd323643.md",
