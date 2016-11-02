@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "434f5d84f301e949ac207778dae0fccf37222fa8",
-  "LastTranslatedCommit": "d1cf41d83cef09fce2f39a6cd4088cc8960fb0cd",
+  "LastTranslatedCommit": "8429326be55ddd8a43f97acbbbbd52407a239fda",
   "LastTansformerVersion": "1.0-eac019f",
   "Items": {
     "4e310838e5fac700dab94ecb22cefa45da6d3a7e": {
@@ -22398,9 +22398,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-11-02T07:21:57.9400466Z",
+      "HandbackException": {
+        "internal_error_code": "handback_file_rejected",
+        "internal_error_message": "Tranformer update causes handoff xliff updated, reject this handback xliff:ht\\FileA.f6ecdaf9df7361203306d4e8bc2aec97d97d9449.zh-cn.xlf",
+        "internal_error_retriable": false,
+        "exception_message": "Tranformer update causes handoff xliff updated, reject this handback xliff:ht\\FileA.f6ecdaf9df7361203306d4e8bc2aec97d97d9449.zh-cn.xlf",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
