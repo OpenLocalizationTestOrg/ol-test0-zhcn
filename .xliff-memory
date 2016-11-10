@@ -1177,8 +1177,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\717b9602ed1d2534126d0f70f3b8ed658a4de042.7ce19edf9ed3a5641b5c192797f7c97e1438db57.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\ht\\75dac912-eb42-48fe-80f4-6f90e433553f.a9665326d2fdd544c6f58ecf10832fe787ff6ccd.zh-cn.xlf",
+      "LocXliffCommit": "a3300a2235795ba6b9b5d533bfdf9f569ac313a7"
     },
     "e2e\\7f817965-000d-4c4c-85c2-fe768f7b99f0.md.25d819d530747e09bd7c82a260c3011a87623378.HT": {
       "SourceFilename": "e2e\\7f817965-000d-4c4c-85c2-fe768f7b99f0.md",
@@ -1187,8 +1187,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\27b395592bf81c3ac52f6d7e523b0ac96c9ce551.96cf97d938296735e9f91c1083cbebec122f7c28.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\ht\\7f817965-000d-4c4c-85c2-fe768f7b99f0.8842299fe82adbbd970f98f9f729e43ce9e05076.zh-cn.xlf",
+      "LocXliffCommit": "a3300a2235795ba6b9b5d533bfdf9f569ac313a7"
     },
     "e2e\\1cf009b4-b7c0-4b66-b31f-1ed4a376164e.md.4ba9fd614dfe14e4bc1d3368849ec1201df6cc67.HT": {
       "SourceFilename": "e2e\\1cf009b4-b7c0-4b66-b31f-1ed4a376164e.md",
@@ -1197,8 +1197,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\3439174d03a12ed6fb6e3fe86fc83150b5bfe3a4.6c44b2ad316890344676be65c8905b21b854bf37.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\ht\\1cf009b4-b7c0-4b66-b31f-1ed4a376164e.434e8aee7a17db618ca155cc0a703ba25d210799.zh-cn.xlf",
+      "LocXliffCommit": "a3300a2235795ba6b9b5d533bfdf9f569ac313a7"
     }
   }
 }
