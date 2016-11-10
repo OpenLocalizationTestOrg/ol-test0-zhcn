@@ -1357,8 +1357,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\be8156b8cc1ae42a01bc8eed9346a29c1fe15830.49b172e961220934319e9b3a5b01c23551e4a6fb.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\ht\\4b740145-cd67-40db-9228-17010fb6e6a3.a1ec94b669a323d09edde52cc75af337817abe04.zh-cn.xlf",
+      "LocXliffCommit": "919c8a6c181a17b7542e04e7e91916bf19aca2d9"
     },
     "e2e\\54f9528b-44ec-45a5-9ec9-d8b507c5d970.md.42460ad6f43459b122e9596a7adb7cd69bc9ac0f.HT": {
       "SourceFilename": "e2e\\54f9528b-44ec-45a5-9ec9-d8b507c5d970.md",
@@ -1367,8 +1367,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\b823acc79bc155444c44f7ca5f7e764fe60da70c.da4e0297b497fcc8176e6316cf02882122af270a.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\ht\\54f9528b-44ec-45a5-9ec9-d8b507c5d970.5c71ea2abc32ae69a38c3bfdadb4327bc2f798b1.zh-cn.xlf",
+      "LocXliffCommit": "919c8a6c181a17b7542e04e7e91916bf19aca2d9"
     },
     "e2e\\f7c573b5-210d-4457-aa12-dc21f8919674.md.b19fe9803dfeffc36ce4fb3b7a2ec5098d32f853.HT": {
       "SourceFilename": "e2e\\f7c573b5-210d-4457-aa12-dc21f8919674.md",
@@ -1377,8 +1377,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\e30234c7f9b8bcf6ec1744681e66a2172c35d72f.24a418a81a886e9e1bd735ff5d588a3829e99c32.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\ht\\f7c573b5-210d-4457-aa12-dc21f8919674.d6f208215f56a17dee6da6ad79bf48a190ab8437.zh-cn.xlf",
+      "LocXliffCommit": "919c8a6c181a17b7542e04e7e91916bf19aca2d9"
     }
   }
 }
