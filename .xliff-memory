@@ -1207,8 +1207,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\df923ccd5f7f3a9cc9b9de009f50f2ed26a9e1e9.15024f7bb09e318c8de8d32c667852000153e317.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\ht\\4c4220d4-b6a1-432f-9f97-96170e9328ff.de1b01bfd96add22b4c499015c3e395b43ee7fde.zh-cn.xlf",
+      "LocXliffCommit": "f64aa563e9770858044b92d090863d1d04c987c9"
     },
     "e2e\\5aea49fd-a402-48e5-a9ab-e68b0d2d87dd.md.fab93a594bba4a225a9efd65ff3f8c0a20973f93.HT": {
       "SourceFilename": "e2e\\5aea49fd-a402-48e5-a9ab-e68b0d2d87dd.md",
@@ -1217,8 +1217,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\dd50823e2cc49c5ec999ce9a2f7a4cdb1e07f62d.f34cd11336d68e31649245115cfd0ee4b391e787.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\ht\\5aea49fd-a402-48e5-a9ab-e68b0d2d87dd.821de2377779368424cae0c28ffdfdae02111281.zh-cn.xlf",
+      "LocXliffCommit": "f64aa563e9770858044b92d090863d1d04c987c9"
     },
     "e2e\\58401111-ec19-440a-8e29-b735a67a6513.md.9d3ecc8a92556d8e821bd735c6e59fa0beb173da.HT": {
       "SourceFilename": "e2e\\58401111-ec19-440a-8e29-b735a67a6513.md",
@@ -1227,8 +1227,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\4cfd11a2aee39c5c6dce912483bd840f8f8ab9d5.a423a9f5745c375d1931b4a5dac7950aaf84e35e.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\yufeih\\ht\\58401111-ec19-440a-8e29-b735a67a6513.2161de84ba5fd60a572cb67a0d547b42879ac956.zh-cn.xlf",
+      "LocXliffCommit": "f64aa563e9770858044b92d090863d1d04c987c9"
     }
   }
 }
