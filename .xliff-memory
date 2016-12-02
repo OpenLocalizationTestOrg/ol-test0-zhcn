@@ -6257,8 +6257,8 @@
       "IsArchived": true,
       "ArchivedDateTime": "2016-12-02T10:14:21.274709Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\03053d8428bdbee0c6c8eabfb5d77b503c393101.53b45ef155106cc0e412417ed6658aa94ec855dc.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\ht\\bac47a1d-fa25-421a-9713-2fb3894ca78c.6e6d30361b9e770c4a385bb35403d02e533e22ab.zh-cn.xlf",
+      "LocXliffCommit": "d1a517d63afdcc0c219c190e3fca8fc24727fcf5"
     },
     "e2e\\bac47a1d-fa25-421a-9713-2fb3894ca78c.md.921c989a517a21e9311bea871ccaaedc04f75013.HT": {
       "SourceFilename": "e2e\\bac47a1d-fa25-421a-9713-2fb3894ca78c.md",
