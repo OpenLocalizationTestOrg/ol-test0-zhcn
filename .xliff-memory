@@ -8344,8 +8344,8 @@
       "SourceFilename": "e2e\\8c769e9d-bf1d-463d-b6a1-14abfeefc112.md",
       "XliffHash": "63216a799b90443a72bf28c706968afd5cd5f0c2",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "IsArchived": true,
+      "ArchivedDateTime": "2016-12-05T06:42:02.8504418Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\dd7778772740b1d34b5fb23a6c6b74371bc7c988.2e92a57df425c7ce81da3344f84a1fab5b1349ce.xml",
       "LocXliff": null,
       "LocXliffCommit": null
