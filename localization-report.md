@@ -59,6 +59,8 @@
 * Archive Datetime: 2016-12-05 05:46:51
 * Handback File: [b005595b-a36e-4644-97b7-a25efbc45f19.905b7e0ec0b3bbebfa08f495a6384d4ceb2c5c57.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/1337e46768d606d422b832574992b5c0364a7d00/ol-handback/OpenLocalizationTestOrg/ol-test0-zhcn/shujia/ht/b005595b-a36e-4644-97b7-a25efbc45f19.905b7e0ec0b3bbebfa08f495a6384d4ceb2c5c57.zh-cn.xlf)
 * Handback Datetime: 2016-12-05 05:48:02
+* Bilingual File: [b005595b-a36e-4644-97b7-a25efbc45f19.905b7e0ec0b3bbebfa08f495a6384d4ceb2c5c57.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/1337e46768d606d422b832574992b5c0364a7d00/ol-handback/OpenLocalizationTestOrg/ol-test0-zhcn/shujia/ht/b005595b-a36e-4644-97b7-a25efbc45f19.905b7e0ec0b3bbebfa08f495a6384d4ceb2c5c57.zh-cn.xlf)
+* Bilingual Datetime: 2016-12-05 05:49:00
 * [Back to Top](#report-top)
 
 ##### <a name='0599ecf2103a86ec76d250a9e1aac2b4089bd2052'></a> Source: [e2e\e739b962-3dc0-4eea-adfd-680d22999065.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/2047600545c75d1c7665fc3cb928a91b4e49c5ee/e2e/e739b962-3dc0-4eea-adfd-680d22999065.md)
@@ -71,6 +73,8 @@
 * Archive Datetime: 2016-12-05 05:46:51
 * Handback File: [e739b962-3dc0-4eea-adfd-680d22999065.ac0228e2a84694947f8dbe4a844d4fd2bb64fc57.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/1337e46768d606d422b832574992b5c0364a7d00/ol-handback/OpenLocalizationTestOrg/ol-test0-zhcn/shujia/ht/e739b962-3dc0-4eea-adfd-680d22999065.ac0228e2a84694947f8dbe4a844d4fd2bb64fc57.zh-cn.xlf)
 * Handback Datetime: 2016-12-05 05:48:02
+* Bilingual File: [e739b962-3dc0-4eea-adfd-680d22999065.ac0228e2a84694947f8dbe4a844d4fd2bb64fc57.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/1337e46768d606d422b832574992b5c0364a7d00/ol-handback/OpenLocalizationTestOrg/ol-test0-zhcn/shujia/ht/e739b962-3dc0-4eea-adfd-680d22999065.ac0228e2a84694947f8dbe4a844d4fd2bb64fc57.zh-cn.xlf)
+* Bilingual Datetime: 2016-12-05 05:49:00
 * [Back to Top](#report-top)
 
 
