@@ -1,26 +1,11 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [e2e\2c37e513-929f-40fd-ad3a-7fac559c4422.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/70c8d01e1cd22392d5e86e6bffeff1da702c098e/e2e/2c37e513-929f-40fd-ad3a-7fac559c4422.md) | InSyncHandedBackSuccess | [Details](#8e4ccc1f0f744edbc2a4054d44d7ffc8ce1ba5871)
 
 ## Item Details
-##### <a name='8e4ccc1f0f744edbc2a4054d44d7ffc8ce1ba5871'></a> Source: [e2e\2c37e513-929f-40fd-ad3a-7fac559c4422.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/70c8d01e1cd22392d5e86e6bffeff1da702c098e/e2e/2c37e513-929f-40fd-ad3a-7fac559c4422.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [e2e\2c37e513-929f-40fd-ad3a-7fac559c4422.md](https://github.com/OpenLocalizationTestOrg/ol-test0-zhcn/blob/b09bc5c92fcaace556edbb7f930718b5352ce0f0/e2e/2c37e513-929f-40fd-ad3a-7fac559c4422.md)
-* Handoff File: [2c37e513-929f-40fd-ad3a-7fac559c4422.5ce90b02802dd95f052b0d5a61b27c530be7d602.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/1c9fc9e6ac378409126c900c49c00e32061cd845/ol-handoff/OpenLocalizationTestOrg/ol-test0-zhcn/qimu/ht/2c37e513-929f-40fd-ad3a-7fac559c4422.5ce90b02802dd95f052b0d5a61b27c530be7d602.zh-cn.xlf)
-* Handoff Datetime: 2016-11-23 11:59:50
-* Handoff Reason: Include
-* Archive File: [2c37e513-929f-40fd-ad3a-7fac559c4422.5ce90b02802dd95f052b0d5a61b27c530be7d602.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/94c640b8d6d853eb39d2216b695b85cc496725c5/ol-archive/OpenLocalizationTestOrg/ol-test0-zhcn/qimu/ht/2c37e513-929f-40fd-ad3a-7fac559c4422.5ce90b02802dd95f052b0d5a61b27c530be7d602.zh-cn.xlf)
-* Archive Datetime: 2016-11-23 11:59:51
-* Handback File: [2c37e513-929f-40fd-ad3a-7fac559c4422.5ce90b02802dd95f052b0d5a61b27c530be7d602.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/7e12a4c7c62f4b0d7a5c455e6bc342eb0d7437b2/ol-handback/OpenLocalizationTestOrg/ol-test0-zhcn/qimu/ht/2c37e513-929f-40fd-ad3a-7fac559c4422.5ce90b02802dd95f052b0d5a61b27c530be7d602.zh-cn.xlf)
-* Handback Datetime: 2016-11-23 12:00:48
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
