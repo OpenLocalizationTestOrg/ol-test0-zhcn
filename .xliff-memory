@@ -10017,8 +10017,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\126b33497fcf2f20bc3c455a5b56b62adc4501fd.34226c1a9f9cb2c27c4335b7cbb12bd808de86e6.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\ht\\d36fbe96-51bb-46b0-a9c1-85bc06894099.222494f8e6dacc006dad214caa50237f86d3c5fe.zh-cn.xlf",
+      "LocXliffCommit": "3b49fd188b4c9584c2af7999431488358c369df6"
     },
     "e2e\\350ad783-f9c3-4711-8a9b-8f9f116f905c.md.2e3e31e27b10b50d8d1a9a26201ab0dc6339a617.HT": {
       "SourceFilename": "e2e\\350ad783-f9c3-4711-8a9b-8f9f116f905c.md",
@@ -10027,8 +10027,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\04dc62b08aad98731821c693753d0f7c85bc2b0f.ebe79a577060e908f58bc191320f1a14ac798afc.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\ht\\350ad783-f9c3-4711-8a9b-8f9f116f905c.609d5456f51d5b909cc33eef3c748655de7e171a.zh-cn.xlf",
+      "LocXliffCommit": "3b49fd188b4c9584c2af7999431488358c369df6"
     },
     "e2e\\b65504b3-44cd-453f-92d8-aa770eb6b23d.md.aff1fea0327a43be9991785b4b13080dcc9ca72c.HT": {
       "SourceFilename": "e2e\\b65504b3-44cd-453f-92d8-aa770eb6b23d.md",
@@ -10037,8 +10037,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\daf55e796de93488078c0f33ae435dace6632a8a.7dfcae20604f0f7bbed6df81055d9547f9016053.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\ht\\b65504b3-44cd-453f-92d8-aa770eb6b23d.44bf6c07273796ca7a8d48a200b2d303b7880985.zh-cn.xlf",
+      "LocXliffCommit": "3b49fd188b4c9584c2af7999431488358c369df6"
     }
   }
 }
