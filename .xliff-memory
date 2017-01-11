@@ -9859,6 +9859,16 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\9dfb4573d7b50bde4433c2f96d71758d5de214be.b309710a3a83130086b140daa8f2b6cc94571b96.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "e2e\\ca3bd60d-ae48-48b8-b194-1311037f6b05.md.ba2eded99b5fc69ec31a865bebab5991cdc13350.HT": {
+      "SourceFilename": "e2e\\ca3bd60d-ae48-48b8-b194-1311037f6b05.md",
+      "XliffHash": "ba2eded99b5fc69ec31a865bebab5991cdc13350",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\9ececcd6aed15fb5bdaf630037deeb21a76ebccb.f3d65b0fee67e9632fd99840de5dc3c1ff2ac27d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
