@@ -11197,8 +11197,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\4a7eee885db70b2c0129130f3b1d38afd1b505fb.8d8a4c4bacd4470b7ef8b62c551d195f206009e1.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\ht\\32b3e278-a4d0-478f-aa18-29b74ee916a6.ae1cb350eafef0406978b70c913adf31e722d758.zh-cn.xlf",
+      "LocXliffCommit": "b40e093cd1f50013c83059f78d866a60e6ffb957"
     },
     "e2e\\adf416b3-70d3-4004-a987-725a1fea441e.md.45079d5c1510217673244da1dfa564994ee94756.HT": {
       "SourceFilename": "e2e\\adf416b3-70d3-4004-a987-725a1fea441e.md",
@@ -11207,8 +11207,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\550057e2fe8e46bc181977a43481398256aa0ac3.f989f7550929daaababe5d43acd8d5b069fa1f90.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\ht\\adf416b3-70d3-4004-a987-725a1fea441e.29932797249bfd7d4f5324c0bca925557dc07b87.zh-cn.xlf",
+      "LocXliffCommit": "b40e093cd1f50013c83059f78d866a60e6ffb957"
     },
     "e2e\\38a87d7e-e3be-460d-9f1e-068b70a1625c.md.ac28e28b2495d76a714d3e6aead004e9d16be137.HT": {
       "SourceFilename": "e2e\\38a87d7e-e3be-460d-9f1e-068b70a1625c.md",
@@ -11217,8 +11217,8 @@
       "IsArchived": false,
       "ArchivedDateTime": "0001-01-01T00:00:00",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\64473e82d32b9bd16d4caabf04366fac22406ca6.9b6b98370cfc2eca5c300f7d427074b782acd2c4.xml",
-      "LocXliff": null,
-      "LocXliffCommit": null
+      "LocXliff": "ol-handback\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\ht\\38a87d7e-e3be-460d-9f1e-068b70a1625c.48ef0eaa25fe0fd11553617e3379ad261284a1aa.zh-cn.xlf",
+      "LocXliffCommit": "b40e093cd1f50013c83059f78d866a60e6ffb957"
     }
   }
 }
