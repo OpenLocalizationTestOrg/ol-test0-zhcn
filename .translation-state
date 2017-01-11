@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "c824f66bebabaaaba83abb8105689cecc1dcc359",
+  "LastProcessedCommit": "84a40ede7663b5992794d21016b0b6dfc3e8bd86",
   "LastTranslatedCommit": "d6c3ecf5c6b0176f95a72c4605be06f5d6af9880",
   "LastTansformerVersion": "1.0-eac019f",
   "LastConfigHash": "c85c81933ba834fb581b7f41f8c9a2fc8e5813e3",
@@ -1129,8 +1129,8 @@
       "HasMetadata": false,
       "TranslationType": 1,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\ht\\test-content-1.fc92bd3ea58825d16dce72b4174897baa7b370e7.zh-cn.xlf",
-      "HandoffFileCommit": "28d13141839daebc0139dd9f8324ec4e2517a431",
-      "HandoffDateTime": "2016-12-05T06:28:27.8025713Z",
+      "HandoffFileCommit": "88ff61c5dd39def977be0044feb0d953d49a5c9d",
+      "HandoffDateTime": "2017-01-11T04:07:21.068036Z",
       "HandoffXliffHash": "9324aeb38ff1d03cb36e1b178154389494e707ff",
       "HandoffName": null,
       "HandoffPriority": "ht",
