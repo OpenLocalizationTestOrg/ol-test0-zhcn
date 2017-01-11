@@ -10329,6 +10329,26 @@
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\81620d73437d500bd3747aa52c3b9426e9767a90.4621f4d5704979d5dbdee1bae8effd745e0dc69c.xml",
       "LocXliff": null,
       "LocXliffCommit": null
+    },
+    "e2e\\36f4c6c0-f849-4348-981a-2c00c5288fee.md.8bdcf43c6d8900994b9a426f5f4ac123a48fffdd.HT": {
+      "SourceFilename": "e2e\\36f4c6c0-f849-4348-981a-2c00c5288fee.md",
+      "XliffHash": "8bdcf43c6d8900994b9a426f5f4ac123a48fffdd",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\21c0e9f3ed0d7f7cedb1d2307d493dda764a6f49.731f2736ecab65aeeef6fab651918425c441558d.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
+    },
+    "e2e\\823fc26e-9e9d-400d-8263-9cf3bfd261a0.md.752224e90bb54a1d7d6127c81bb6e488ea9f1f1c.HT": {
+      "SourceFilename": "e2e\\823fc26e-9e9d-400d-8263-9cf3bfd261a0.md",
+      "XliffHash": "752224e90bb54a1d7d6127c81bb6e488ea9f1f1c",
+      "TranslationType": 1,
+      "IsArchived": false,
+      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\27586c05fdb1f41878b30d6d28c20f473b27a669.b06c560c7517f478c29faa02c587178abd32f864.xml",
+      "LocXliff": null,
+      "LocXliffCommit": null
     }
   }
 }
