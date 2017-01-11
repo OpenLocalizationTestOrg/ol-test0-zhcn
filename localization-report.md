@@ -63,6 +63,8 @@
 * Handback File: [34427b76-678c-4ee4-9e33-e35211b31cce.fb232c9e8681b2e45654c588ceead129d4977ea0.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/9bf43d014967fe842a7f5e2e00d8bf9db88a2574/ol-handback/OpenLocalizationTestOrg/ol-test0-zhcn/shujia/ht/34427b76-678c-4ee4-9e33-e35211b31cce.fb232c9e8681b2e45654c588ceead129d4977ea0.zh-cn.xlf)
 * Handback Datetime: 2017-01-11 11:34:59
 * Handback Name: 
+* Bilingual File: [34427b76-678c-4ee4-9e33-e35211b31cce.fb232c9e8681b2e45654c588ceead129d4977ea0.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/9bf43d014967fe842a7f5e2e00d8bf9db88a2574/ol-handback/OpenLocalizationTestOrg/ol-test0-zhcn/shujia/ht/34427b76-678c-4ee4-9e33-e35211b31cce.fb232c9e8681b2e45654c588ceead129d4977ea0.zh-cn.xlf)
+* Bilingual Datetime: 2017-01-11 11:36:12
 * [Back to Top](#report-top)
 
 ##### <a name='7be9f51bcc849b98753fcb7e2d3eb553fb5783b62'></a> Source: [e2e\def45a3c-c7cb-418c-b9cf-a336a7df6872.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/65642572db0ac901df23bc73ee8729b9a0a17381/e2e/def45a3c-c7cb-418c-b9cf-a336a7df6872.md)
@@ -77,6 +79,8 @@
 * Handback File: [def45a3c-c7cb-418c-b9cf-a336a7df6872.014dffdc33fbcfce889fd2a98231d2430bd8629d.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/9bf43d014967fe842a7f5e2e00d8bf9db88a2574/ol-handback/OpenLocalizationTestOrg/ol-test0-zhcn/shujia/ht/def45a3c-c7cb-418c-b9cf-a336a7df6872.014dffdc33fbcfce889fd2a98231d2430bd8629d.zh-cn.xlf)
 * Handback Datetime: 2017-01-11 11:34:59
 * Handback Name: 
+* Bilingual File: [def45a3c-c7cb-418c-b9cf-a336a7df6872.014dffdc33fbcfce889fd2a98231d2430bd8629d.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/9bf43d014967fe842a7f5e2e00d8bf9db88a2574/ol-handback/OpenLocalizationTestOrg/ol-test0-zhcn/shujia/ht/def45a3c-c7cb-418c-b9cf-a336a7df6872.014dffdc33fbcfce889fd2a98231d2430bd8629d.zh-cn.xlf)
+* Bilingual Datetime: 2017-01-11 11:36:12
 * [Back to Top](#report-top)
 
 
