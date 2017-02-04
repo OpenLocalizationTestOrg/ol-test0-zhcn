@@ -12174,8 +12174,8 @@
       "SourceFilename": "e2e\\0dc24d1b-202c-4c12-80d1-c8816659d922.md",
       "XliffHash": "303fee0c59d68fbdd82d7cff447db639e38f7e04",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "IsArchived": true,
+      "ArchivedDateTime": "2017-02-04T03:55:45.5115226Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\3d34471002eb909e376886da48560106d8e6eba9.452628ae87d6a62542b978941ae7f6f1dc040cd2.xml",
       "LocXliff": null,
       "LocXliffCommit": null
@@ -12204,8 +12204,8 @@
       "SourceFilename": "e2e\\50fbe944-471a-4f71-af0c-6c62fdc7db6f.md",
       "XliffHash": "cb9e71c984fe35a1362384bafaa4b5f3fd188267",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "IsArchived": true,
+      "ArchivedDateTime": "2017-02-04T03:55:45.5115226Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\ea5ca0d483816628c44bd190283b498180f81cf5.63394884de448f78906056a384ff8ee7e3367053.xml",
       "LocXliff": null,
       "LocXliffCommit": null
@@ -12214,8 +12214,8 @@
       "SourceFilename": "e2e\\6366d3d4-80be-47c4-acd2-832889653737.md",
       "XliffHash": "55921cecd29cf0a613e0e0f1057cf2cb31fda787",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "IsArchived": true,
+      "ArchivedDateTime": "2017-02-04T03:55:45.5115226Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\a2f847634629b788698343cccb87a8909ed82cbe.063fbaf4fe6e927fdc267585b12244a73cefdaac.xml",
       "LocXliff": null,
       "LocXliffCommit": null
@@ -12224,8 +12224,8 @@
       "SourceFilename": "e2e\\1ea09401-8243-479f-8037-2e77164cac88.md",
       "XliffHash": "8a95e1f701a443322fe0ea5cb87c96b6decbd190",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "IsArchived": true,
+      "ArchivedDateTime": "2017-02-04T03:55:45.5115226Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\39e2098419f0c3503c675d02f024336aca1023eb.c003cec81ba8a6c12f0b31d03b4c234a3f7f0ff0.xml",
       "LocXliff": null,
       "LocXliffCommit": null
