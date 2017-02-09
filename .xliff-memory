@@ -13054,8 +13054,8 @@
       "SourceFilename": "e2e\\6c6f1972-8f2d-4b5b-82bc-3d5494070147.md",
       "XliffHash": "52b3a513642343d84ce6abe0b908e942910d6b54",
       "TranslationType": 1,
-      "IsArchived": false,
-      "ArchivedDateTime": "0001-01-01T00:00:00",
+      "IsArchived": true,
+      "ArchivedDateTime": "2017-02-09T08:10:53.4342734Z",
       "SkeletonFile": "ol-xliffcache\\OpenLocalizationTestOrg\\ol-test0-zhcn\\shujia\\a3da0f043c9ba823db41065770bd7b0b772a7642.fbc6609e16288c2f5c7741c88e72e80cc1977991.xml",
       "LocXliff": null,
       "LocXliffCommit": null
