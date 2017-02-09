@@ -2,8 +2,8 @@
 > This report show how many files are handback automatically in this handoff.
 
 ## Summary
-* **Auto Archive Count**: 0
-* **Auto Handback Count**: 0
+* **Auto Archive Count**: 1
+* **Auto Handback Count**: 1
 
 ## Auto Handback List
 > The following xliff are handback automatically since the same xliff has been handback before with the same translation quality.
@@ -13,6 +13,7 @@
 
 | Handoff Xliff | Referenced Xliff | 
 | --- | --- | 
+| [ol-handoff\OpenLocalizationTestOrg\ol-test0-zhcn\shujia\ht\cfc1c485-46c6-4bab-b6c8-80e6a9de4c22.77d701417070507dba71619711e66317c404feff.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/9f15e45429d31ae663e17942a8f1e7301120b857/ol-handoff/OpenLocalizationTestOrg/ol-test0-zhcn/shujia/ht/cfc1c485-46c6-4bab-b6c8-80e6a9de4c22.77d701417070507dba71619711e66317c404feff.zh-cn.xlf) | [ol-handback\OpenLocalizationTestOrg\ol-test0-zhcn\shujia\ht\cfc1c485-46c6-4bab-b6c8-80e6a9de4c22.77d701417070507dba71619711e66317c404feff.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handback/blob/281593ca1920e4e353c5fe100c8e8d76b8f46fea/ol-handback/OpenLocalizationTestOrg/ol-test0-zhcn/shujia/ht/cfc1c485-46c6-4bab-b6c8-80e6a9de4c22.77d701417070507dba71619711e66317c404feff.zh-cn.xlf) | 
 
 ## Auto Archived List
 > The following xliff are archived automatically since the same xliff has been archived or it is already handback
@@ -22,4 +23,5 @@
 
 | Handoff Xliff | Archived Reason | 
 | --- | --- | 
+| [ol-handoff\OpenLocalizationTestOrg\ol-test0-zhcn\shujia\ht\cfc1c485-46c6-4bab-b6c8-80e6a9de4c22.77d701417070507dba71619711e66317c404feff.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/9f15e45429d31ae663e17942a8f1e7301120b857/ol-handoff/OpenLocalizationTestOrg/ol-test0-zhcn/shujia/ht/cfc1c485-46c6-4bab-b6c8-80e6a9de4c22.77d701417070507dba71619711e66317c404feff.zh-cn.xlf) | Handbacked | 
 
