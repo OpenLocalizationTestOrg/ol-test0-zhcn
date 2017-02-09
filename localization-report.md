@@ -5,10 +5,10 @@
  -------- | ----- 
  Total Files | 8
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1
+[ Handoff Success Files ](#handoff-success-list)| 0
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
-[ Handback Failed Files ](#handback-failed-list)| 1
+[ Handback Failed Files ](#handback-failed-list)| 2
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
 [ In Sync Handback Files ](#insync-handback-success-list)| 5
 [ Ignored Files ](#ignored-list)| 1
@@ -16,9 +16,6 @@
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
 ## <a name='handoff-success-list'></a> Handoff Success File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [e2e\10cca6c0-6cad-4a6b-b941-b22fffe94701.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/d9f5e3a06477ab89227402c228c507e03f0fb735/e2e/10cca6c0-6cad-4a6b-b941-b22fffe94701.md) | HandedOffSuccess | [Details](#1c00bca6b7b981e30f4ee8a6f6d61adb8ead5d731)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
 
@@ -27,6 +24,7 @@
 ## <a name='handback-failed-list'></a> Handback Failed File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
+ [e2e\10cca6c0-6cad-4a6b-b941-b22fffe94701.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/d9f5e3a06477ab89227402c228c507e03f0fb735/e2e/10cca6c0-6cad-4a6b-b941-b22fffe94701.md) | HandedBackFailed | [Details](#1c00bca6b7b981e30f4ee8a6f6d61adb8ead5d731)
  [e2e\e4572285-04fa-4ca0-a6b2-13dd1448b80e.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/ff5bfb68e333417cbd277c7102190f0870d66649/e2e/e4572285-04fa-4ca0-a6b2-13dd1448b80e.md) | HandedBackFailed | [Details](#790fc38ab22af08653f6ac168b5bd753b4f5a4e77)
 
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
@@ -61,7 +59,7 @@
 * [Back to Top](#report-top)
 
 ##### <a name='1c00bca6b7b981e30f4ee8a6f6d61adb8ead5d731'></a> Source: [e2e\10cca6c0-6cad-4a6b-b941-b22fffe94701.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/d9f5e3a06477ab89227402c228c507e03f0fb735/e2e/10cca6c0-6cad-4a6b-b941-b22fffe94701.md)
-* Status: HandedOffSuccess
+* Status: HandedBackFailed
 * Target File: 
 * Handoff File: [10cca6c0-6cad-4a6b-b941-b22fffe94701.aeb54ebfaf5f05ac7c08408fb85dfd7fec01f9e4.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/ol-test0-handoff/blob/8b830a1ec40c2d919390772ef689852d08f16be4/ol-handoff/OpenLocalizationTestOrg/ol-test0-zhcn/shujia/ht/10cca6c0-6cad-4a6b-b941-b22fffe94701.aeb54ebfaf5f05ac7c08408fb85dfd7fec01f9e4.zh-cn.xlf)
 * Handoff Datetime: 2017-02-09 08:48:33
@@ -70,8 +68,9 @@
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback Datetime: 2017-02-09 08:49:41
 * Handback Name: 
+* Handback Error: [handback_validate_file_name_invalide](#1c00bca6b7b981e30f4ee8a6f6d61adb8ead5d731handback_validate_file_name_invalide)
 * [Back to Top](#report-top)
 
 ##### <a name='eaee66e99c8bb041020cc058fb172076d67c43182'></a> Source: [e2e\248ad8c4-bc0e-4220-a662-2c6d073c547f.md](https://github.com/OpenLocalizationTestOrg/ol-test0/blob/5874dcc9b476c7bf7f8f6a5fd75741ee06bce0f6/e2e/248ad8c4-bc0e-4220-a662-2c6d073c547f.md)
@@ -161,6 +160,12 @@
 
 
 ## Error Details
+##### <a name='1c00bca6b7b981e30f4ee8a6f6d61adb8ead5d731handback_validate_file_name_invalide'></a> Source: [e2e\10cca6c0-6cad-4a6b-b941-b22fffe94701.md](#1c00bca6b7b981e30f4ee8a6f6d61adb8ead5d731)
+* Error Code: handback_validate_file_name_invalide
+* Error Message: Handback file name: 12icphzx.aix is different with handoff file name: 10cca6c0-6cad-4a6b-b941-b22fffe94701.aeb54ebfaf5f05ac7c08408fb85dfd7fec01f9e4.zh-cn.
+* Retriable: False
+* Error Details: {"internal_error_code":"handback_validate_file_name_invalide","internal_error_message":"Handback file name: 12icphzx.aix is different with handoff file name: 10cca6c0-6cad-4a6b-b941-b22fffe94701.aeb54ebfaf5f05ac7c08408fb85dfd7fec01f9e4.zh-cn.","internal_error_retriable":false,"exception_message":"Handback file name: 12icphzx.aix is different with handoff file name: 10cca6c0-6cad-4a6b-b941-b22fffe94701.aeb54ebfaf5f05ac7c08408fb85dfd7fec01f9e4.zh-cn.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
+
 ##### <a name='790fc38ab22af08653f6ac168b5bd753b4f5a4e77handback_file_rejected'></a> Source: [e2e\e4572285-04fa-4ca0-a6b2-13dd1448b80e.md](#790fc38ab22af08653f6ac168b5bd753b4f5a4e77)
 * Error Code: handback_file_rejected
 * Error Message: Targeting source file commit cf38c2907985266cc4a9bea9742c48376cf68e82 is lower than latest handed back source file commit ff5bfb68e333417cbd277c7102190f0870d66649
